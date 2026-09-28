@@ -1,0 +1,4200 @@
+{
+  "products": [
+    {
+      "id": "canape-angle-oran",
+      "slug": "canape-angle-oran",
+      "weightKg": 95,
+      "deliveryDays": 21,
+      "rating": 4.7,
+      "ratingCount": 58,
+      "badges": [
+        "bestSeller",
+        "fabriqueEnAlgerie"
+      ],
+      "name": {
+        "fr": "Canapé d'angle Oran",
+        "en": "Oran corner sofa"
+      },
+      "brand": "Atelier Saluna",
+      "category": "canapeAngle",
+      "style": "moderne",
+      "description": {
+        "fr": "Canapé d'angle généreux à méridienne droite, assise profonde en mousse haute résilience.",
+        "en": "Generous corner sofa with right-hand chaise, deep high-resilience foam seat."
+      },
+      "dimensions": {
+        "width": 260,
+        "depth": 170,
+        "height": 85
+      },
+      "materialsLabel": {
+        "fr": "Tissu, structure hêtre, pieds chêne",
+        "en": "Fabric, beech frame, oak legs"
+      },
+      "materials": {
+        "fabric": {
+          "color": "#cdba9a",
+          "roughness": 0.9,
+          "sheen": 0.6,
+          "sheenColor": "#f2e6d0",
+          "sheenRoughness": 0.8
+        },
+        "accent": {
+          "color": "#cdba9a",
+          "roughness": 0.9,
+          "sheen": 0.6,
+          "sheenColor": "#f2e6d0",
+          "sheenRoughness": 0.8
+        },
+        "wood": {
+          "color": "#b8895a",
+          "roughness": 0.55,
+          "clearcoat": 0.4,
+          "clearcoatRoughness": 0.35
+        }
+      },
+      "modelUrl": null,
+      "images": [],
+      "variants": [
+        {
+          "id": "canape-angle-oran--lin-sable",
+          "productId": "canape-angle-oran",
+          "sku": "SAL-CAO-100",
+          "label": {
+            "fr": "Lin sable",
+            "en": "Lin sable"
+          },
+          "swatch": "#cdba9a",
+          "price": 245000,
+          "stock": 12,
+          "materials": {
+            "fabric": {
+              "color": "#cdba9a",
+              "roughness": 0.9,
+              "sheen": 0.6,
+              "sheenColor": "#f2e6d0",
+              "sheenRoughness": 0.8
+            },
+            "accent": {
+              "color": "#cdba9a",
+              "roughness": 0.9,
+              "sheen": 0.6,
+              "sheenColor": "#f2e6d0",
+              "sheenRoughness": 0.8
+            }
+          },
+          "options": {
+            "tissu": "lin"
+          }
+        },
+        {
+          "id": "canape-angle-oran--velours-olive",
+          "productId": "canape-angle-oran",
+          "sku": "SAL-CAO-101",
+          "label": {
+            "fr": "Velours olive",
+            "en": "Olive velvet"
+          },
+          "swatch": "#5e6b3a",
+          "price": 259000,
+          "stock": 12,
+          "materials": {
+            "fabric": {
+              "color": "#5e6b3a",
+              "roughness": 0.8,
+              "sheen": 1,
+              "sheenColor": "#9aa46a",
+              "sheenRoughness": 0.4
+            },
+            "accent": {
+              "color": "#5e6b3a",
+              "roughness": 0.8,
+              "sheen": 1,
+              "sheenColor": "#9aa46a",
+              "sheenRoughness": 0.4
+            }
+          },
+          "options": {
+            "tissu": "velours"
+          }
+        },
+        {
+          "id": "canape-angle-oran--boucle-ivoire",
+          "productId": "canape-angle-oran",
+          "sku": "SAL-CAO-102",
+          "label": {
+            "fr": "Bouclé ivoire",
+            "en": "Ivory bouclé"
+          },
+          "swatch": "#ede6d8",
+          "price": 269000,
+          "stock": 12,
+          "materials": {
+            "fabric": {
+              "color": "#ede6d8",
+              "roughness": 0.95,
+              "sheen": 0.7,
+              "sheenColor": "#ffffff",
+              "sheenRoughness": 0.9
+            },
+            "accent": {
+              "color": "#ede6d8",
+              "roughness": 0.95,
+              "sheen": 0.7,
+              "sheenColor": "#ffffff",
+              "sheenRoughness": 0.9
+            }
+          },
+          "options": {
+            "tissu": "boucle"
+          }
+        },
+        {
+          "id": "canape-angle-oran--anthracite",
+          "productId": "canape-angle-oran",
+          "sku": "SAL-CAO-103",
+          "label": {
+            "fr": "Tissu anthracite",
+            "en": "Charcoal fabric"
+          },
+          "swatch": "#3b3d40",
+          "price": 229000,
+          "stock": 12,
+          "materials": {
+            "fabric": {
+              "color": "#3b3d40",
+              "roughness": 0.9,
+              "sheen": 0.5,
+              "sheenColor": "#6d7075",
+              "sheenRoughness": 0.7
+            },
+            "accent": {
+              "color": "#3b3d40",
+              "roughness": 0.9,
+              "sheen": 0.5,
+              "sheenColor": "#6d7075",
+              "sheenRoughness": 0.7
+            },
+            "wood": {
+              "color": "#2b2521",
+              "roughness": 0.5,
+              "clearcoat": 0.4,
+              "clearcoatRoughness": 0.35
+            }
+          },
+          "options": {
+            "tissu": "tissu"
+          },
+          "compareAtPrice": 249000
+        }
+      ]
+    },
+    {
+      "id": "canape-3p-tipaza",
+      "slug": "canape-3p-tipaza",
+      "weightKg": 62,
+      "deliveryDays": 14,
+      "rating": 4.5,
+      "ratingCount": 41,
+      "badges": [
+        "fabriqueEnAlgerie"
+      ],
+      "name": {
+        "fr": "Canapé 3 places Tipaza",
+        "en": "Tipaza 3-seater sofa"
+      },
+      "brand": "Bois d'Atlas",
+      "category": "canape3Places",
+      "style": "scandinave",
+      "description": {
+        "fr": "Lignes douces, accoudoirs arrondis et pieds fuselés en chêne massif.",
+        "en": "Soft lines, rounded armrests and tapered solid oak legs."
+      },
+      "dimensions": {
+        "width": 220,
+        "depth": 95,
+        "height": 82
+      },
+      "materialsLabel": {
+        "fr": "Tissu, chêne massif",
+        "en": "Fabric, solid oak"
+      },
+      "materials": {
+        "fabric": {
+          "color": "#d8cbb3",
+          "roughness": 0.9,
+          "sheen": 0.6,
+          "sheenColor": "#f5ecdc",
+          "sheenRoughness": 0.8
+        },
+        "accent": {
+          "color": "#d8cbb3",
+          "roughness": 0.9,
+          "sheen": 0.6,
+          "sheenColor": "#f5ecdc",
+          "sheenRoughness": 0.8
+        },
+        "wood": {
+          "color": "#cfa774",
+          "roughness": 0.55,
+          "clearcoat": 0.4,
+          "clearcoatRoughness": 0.35
+        }
+      },
+      "modelUrl": null,
+      "images": [],
+      "variants": [
+        {
+          "id": "canape-3p-tipaza--lin-naturel",
+          "productId": "canape-3p-tipaza",
+          "sku": "SAL-C3T-104",
+          "label": {
+            "fr": "Lin naturel",
+            "en": "Natural linen"
+          },
+          "swatch": "#d8cbb3",
+          "price": 159000,
+          "stock": 12,
+          "materials": {
+            "fabric": {
+              "color": "#d8cbb3",
+              "roughness": 0.9,
+              "sheen": 0.6,
+              "sheenColor": "#f5ecdc",
+              "sheenRoughness": 0.8
+            },
+            "accent": {
+              "color": "#d8cbb3",
+              "roughness": 0.9,
+              "sheen": 0.6,
+              "sheenColor": "#f5ecdc",
+              "sheenRoughness": 0.8
+            }
+          },
+          "options": {
+            "tissu": "lin"
+          }
+        },
+        {
+          "id": "canape-3p-tipaza--velours-terracotta",
+          "productId": "canape-3p-tipaza",
+          "sku": "SAL-C3T-105",
+          "label": {
+            "fr": "Velours terracotta",
+            "en": "Terracotta velvet"
+          },
+          "swatch": "#b0603f",
+          "price": 172000,
+          "stock": 12,
+          "materials": {
+            "fabric": {
+              "color": "#b0603f",
+              "roughness": 0.8,
+              "sheen": 1,
+              "sheenColor": "#e0957a",
+              "sheenRoughness": 0.4
+            },
+            "accent": {
+              "color": "#b0603f",
+              "roughness": 0.8,
+              "sheen": 1,
+              "sheenColor": "#e0957a",
+              "sheenRoughness": 0.4
+            }
+          },
+          "options": {
+            "tissu": "velours"
+          }
+        },
+        {
+          "id": "canape-3p-tipaza--chenille-gris",
+          "productId": "canape-3p-tipaza",
+          "sku": "SAL-C3T-106",
+          "label": {
+            "fr": "Chenille gris perle",
+            "en": "Pearl grey chenille"
+          },
+          "swatch": "#a7a5a0",
+          "price": 165000,
+          "stock": 12,
+          "materials": {
+            "fabric": {
+              "color": "#a7a5a0",
+              "roughness": 0.92,
+              "sheen": 0.6,
+              "sheenColor": "#d6d4cf",
+              "sheenRoughness": 0.7
+            },
+            "accent": {
+              "color": "#a7a5a0",
+              "roughness": 0.92,
+              "sheen": 0.6,
+              "sheenColor": "#d6d4cf",
+              "sheenRoughness": 0.7
+            }
+          },
+          "options": {
+            "tissu": "chenille"
+          }
+        },
+        {
+          "id": "canape-3p-tipaza--cuir-cognac",
+          "productId": "canape-3p-tipaza",
+          "sku": "SAL-C3T-107",
+          "label": {
+            "fr": "Cuir cognac",
+            "en": "Cognac leather"
+          },
+          "swatch": "#8a4b2a",
+          "price": 219000,
+          "stock": 12,
+          "materials": {
+            "fabric": {
+              "color": "#8a4b2a",
+              "roughness": 0.45,
+              "clearcoat": 0.3,
+              "clearcoatRoughness": 0.5
+            },
+            "accent": {
+              "color": "#8a4b2a",
+              "roughness": 0.45,
+              "clearcoat": 0.3,
+              "clearcoatRoughness": 0.5
+            },
+            "wood": {
+              "color": "#5c3d2a",
+              "roughness": 0.5,
+              "clearcoat": 0.5,
+              "clearcoatRoughness": 0.3
+            }
+          },
+          "options": {
+            "tissu": "cuir"
+          }
+        }
+      ]
+    },
+    {
+      "id": "canape-modulable-sahel",
+      "slug": "canape-modulable-sahel",
+      "weightKg": 110,
+      "deliveryDays": 28,
+      "rating": 4.8,
+      "ratingCount": 19,
+      "badges": [
+        "nouveau"
+      ],
+      "name": {
+        "fr": "Canapé modulable Sahel",
+        "en": "Sahel modular sofa"
+      },
+      "brand": "Maison Tassili",
+      "category": "canapeModulable",
+      "style": "moderne",
+      "description": {
+        "fr": "Modules bas et profonds à composer librement, coussins déhoussables.",
+        "en": "Low, deep modules to arrange freely, removable covers."
+      },
+      "dimensions": {
+        "width": 250,
+        "depth": 105,
+        "height": 75
+      },
+      "materialsLabel": {
+        "fr": "Tissu bouclé ou velours, mousse HR",
+        "en": "Bouclé or velvet fabric, HR foam"
+      },
+      "materials": {
+        "fabric": {
+          "color": "#e6dac3",
+          "roughness": 0.95,
+          "sheen": 0.7,
+          "sheenColor": "#fff8ea",
+          "sheenRoughness": 0.9
+        },
+        "accent": {
+          "color": "#e6dac3",
+          "roughness": 0.95,
+          "sheen": 0.7,
+          "sheenColor": "#fff8ea",
+          "sheenRoughness": 0.9
+        },
+        "wood": {
+          "color": "#2b2521",
+          "roughness": 0.5,
+          "clearcoat": 0.4,
+          "clearcoatRoughness": 0.35
+        }
+      },
+      "modelUrl": null,
+      "images": [],
+      "variants": [
+        {
+          "id": "canape-modulable-sahel--boucle-creme-3",
+          "productId": "canape-modulable-sahel",
+          "sku": "SAL-CMS-108",
+          "label": {
+            "fr": "Bouclé crème · 3 modules",
+            "en": "Cream bouclé · 3 modules"
+          },
+          "swatch": "#e6dac3",
+          "price": 329000,
+          "stock": 12,
+          "materials": {
+            "fabric": {
+              "color": "#e6dac3",
+              "roughness": 0.95,
+              "sheen": 0.7,
+              "sheenColor": "#fff8ea",
+              "sheenRoughness": 0.9
+            },
+            "accent": {
+              "color": "#e6dac3",
+              "roughness": 0.95,
+              "sheen": 0.7,
+              "sheenColor": "#fff8ea",
+              "sheenRoughness": 0.9
+            }
+          },
+          "options": {
+            "tissu": "boucle",
+            "taille": "3-modules"
+          }
+        },
+        {
+          "id": "canape-modulable-sahel--velours-bleu-3",
+          "productId": "canape-modulable-sahel",
+          "sku": "SAL-CMS-109",
+          "label": {
+            "fr": "Velours bleu nuit · 3 modules",
+            "en": "Midnight velvet · 3 modules"
+          },
+          "swatch": "#1f2a44",
+          "price": 345000,
+          "stock": 12,
+          "materials": {
+            "fabric": {
+              "color": "#1f2a44",
+              "roughness": 0.8,
+              "sheen": 1,
+              "sheenColor": "#4a5a88",
+              "sheenRoughness": 0.4
+            },
+            "accent": {
+              "color": "#1f2a44",
+              "roughness": 0.8,
+              "sheen": 1,
+              "sheenColor": "#4a5a88",
+              "sheenRoughness": 0.4
+            }
+          },
+          "options": {
+            "tissu": "velours",
+            "taille": "3-modules"
+          }
+        },
+        {
+          "id": "canape-modulable-sahel--taupe-3",
+          "productId": "canape-modulable-sahel",
+          "sku": "SAL-CMS-110",
+          "label": {
+            "fr": "Tissu taupe · 3 modules",
+            "en": "Taupe fabric · 3 modules"
+          },
+          "swatch": "#8b7d6f",
+          "price": 309000,
+          "stock": 12,
+          "materials": {
+            "fabric": {
+              "color": "#8b7d6f",
+              "roughness": 0.9,
+              "sheen": 0.5,
+              "sheenColor": "#b9ad9f",
+              "sheenRoughness": 0.7
+            },
+            "accent": {
+              "color": "#8b7d6f",
+              "roughness": 0.9,
+              "sheen": 0.5,
+              "sheenColor": "#b9ad9f",
+              "sheenRoughness": 0.7
+            }
+          },
+          "options": {
+            "tissu": "tissu",
+            "taille": "3-modules"
+          }
+        },
+        {
+          "id": "canape-modulable-sahel--boucle-creme-4",
+          "productId": "canape-modulable-sahel",
+          "sku": "SAL-CMS-111",
+          "label": {
+            "fr": "Bouclé crème · 4 modules",
+            "en": "Cream bouclé · 4 modules"
+          },
+          "swatch": "#e6dac3",
+          "price": 419000,
+          "stock": 12,
+          "materials": {
+            "fabric": {
+              "color": "#e6dac3",
+              "roughness": 0.95,
+              "sheen": 0.7,
+              "sheenColor": "#fff8ea",
+              "sheenRoughness": 0.9
+            },
+            "accent": {
+              "color": "#e6dac3",
+              "roughness": 0.95,
+              "sheen": 0.7,
+              "sheenColor": "#fff8ea",
+              "sheenRoughness": 0.9
+            }
+          },
+          "options": {
+            "tissu": "boucle",
+            "taille": "4-modules"
+          },
+          "dimensions": {
+            "width": 330,
+            "depth": 105,
+            "height": 75
+          }
+        }
+      ]
+    },
+    {
+      "id": "canape-angle-kabylie",
+      "slug": "canape-angle-kabylie",
+      "weightKg": 140,
+      "deliveryDays": 30,
+      "rating": 4.4,
+      "ratingCount": 12,
+      "badges": [],
+      "name": {
+        "fr": "Canapé d'angle XXL Kabylie",
+        "en": "Kabylie XXL corner sofa"
+      },
+      "brand": "Djurdjura Mobilier",
+      "category": "canapeAngle",
+      "style": "classique",
+      "description": {
+        "fr": "Très grand canapé d'angle pour les salons spacieux.",
+        "en": "Very large corner sofa for spacious living rooms."
+      },
+      "dimensions": {
+        "width": 320,
+        "depth": 220,
+        "height": 90
+      },
+      "materialsLabel": {
+        "fr": "Chenille, pieds métal",
+        "en": "Chenille, metal legs"
+      },
+      "materials": {
+        "fabric": {
+          "color": "#a7a5a0",
+          "roughness": 0.92,
+          "sheen": 0.6,
+          "sheenColor": "#d6d4cf",
+          "sheenRoughness": 0.7
+        },
+        "accent": {
+          "color": "#a7a5a0",
+          "roughness": 0.92,
+          "sheen": 0.6,
+          "sheenColor": "#d6d4cf",
+          "sheenRoughness": 0.7
+        },
+        "wood": {
+          "color": "#5c3d2a",
+          "roughness": 0.5,
+          "clearcoat": 0.5,
+          "clearcoatRoughness": 0.3
+        }
+      },
+      "modelUrl": null,
+      "images": [],
+      "variants": [
+        {
+          "id": "canape-angle-kabylie--chenille-gris",
+          "productId": "canape-angle-kabylie",
+          "sku": "SAL-CAK-112",
+          "label": {
+            "fr": "Chenille gris perle",
+            "en": "Pearl grey chenille"
+          },
+          "swatch": "#a7a5a0",
+          "price": 289000,
+          "stock": 12,
+          "materials": {},
+          "options": {
+            "tissu": "chenille"
+          }
+        },
+        {
+          "id": "canape-angle-kabylie--taupe",
+          "productId": "canape-angle-kabylie",
+          "sku": "SAL-CAK-113",
+          "label": {
+            "fr": "Tissu taupe",
+            "en": "Taupe fabric"
+          },
+          "swatch": "#8b7d6f",
+          "price": 279000,
+          "stock": 12,
+          "materials": {
+            "fabric": {
+              "color": "#8b7d6f",
+              "roughness": 0.9,
+              "sheen": 0.5,
+              "sheenColor": "#b9ad9f",
+              "sheenRoughness": 0.7
+            },
+            "accent": {
+              "color": "#8b7d6f",
+              "roughness": 0.9,
+              "sheen": 0.5,
+              "sheenColor": "#b9ad9f",
+              "sheenRoughness": 0.7
+            }
+          },
+          "options": {
+            "tissu": "tissu"
+          }
+        },
+        {
+          "id": "canape-angle-kabylie--anthracite",
+          "productId": "canape-angle-kabylie",
+          "sku": "SAL-CAK-114",
+          "label": {
+            "fr": "Tissu anthracite",
+            "en": "Charcoal fabric"
+          },
+          "swatch": "#3b3d40",
+          "price": 279000,
+          "stock": 12,
+          "materials": {
+            "fabric": {
+              "color": "#3b3d40",
+              "roughness": 0.9,
+              "sheen": 0.5,
+              "sheenColor": "#6d7075",
+              "sheenRoughness": 0.7
+            },
+            "accent": {
+              "color": "#3b3d40",
+              "roughness": 0.9,
+              "sheen": 0.5,
+              "sheenColor": "#6d7075",
+              "sheenRoughness": 0.7
+            }
+          },
+          "options": {
+            "tissu": "tissu"
+          }
+        }
+      ]
+    },
+    {
+      "id": "table-ronde-atlas",
+      "slug": "table-ronde-atlas",
+      "weightKg": 18,
+      "deliveryDays": 10,
+      "rating": 4.6,
+      "ratingCount": 73,
+      "badges": [
+        "bestSeller",
+        "fabriqueEnAlgerie"
+      ],
+      "name": {
+        "fr": "Table basse ronde Atlas",
+        "en": "Atlas round coffee table"
+      },
+      "brand": "Bois d'Atlas",
+      "category": "tableRonde",
+      "style": "scandinave",
+      "description": {
+        "fr": "Plateau rond sur piétement central sculpté.",
+        "en": "Round top on a sculpted central base."
+      },
+      "dimensions": {
+        "width": 90,
+        "depth": 90,
+        "height": 38
+      },
+      "materialsLabel": {
+        "fr": "Chêne massif ou marbre",
+        "en": "Solid oak or marble"
+      },
+      "materials": {
+        "wood": {
+          "color": "#b8895a",
+          "roughness": 0.55,
+          "clearcoat": 0.4,
+          "clearcoatRoughness": 0.35
+        },
+        "accent": {
+          "color": "#b8895a",
+          "roughness": 0.55,
+          "clearcoat": 0.4,
+          "clearcoatRoughness": 0.35
+        }
+      },
+      "modelUrl": null,
+      "images": [],
+      "variants": [
+        {
+          "id": "table-ronde-atlas--chene",
+          "productId": "table-ronde-atlas",
+          "sku": "SAL-TRA-115",
+          "label": {
+            "fr": "Chêne naturel",
+            "en": "Natural oak"
+          },
+          "swatch": "#b8895a",
+          "price": 38000,
+          "stock": 12,
+          "materials": {
+            "wood": {
+              "color": "#b8895a",
+              "roughness": 0.55,
+              "clearcoat": 0.4,
+              "clearcoatRoughness": 0.35
+            },
+            "accent": {
+              "color": "#b8895a",
+              "roughness": 0.55,
+              "clearcoat": 0.4,
+              "clearcoatRoughness": 0.35
+            }
+          },
+          "options": {
+            "bois": "chene"
+          }
+        },
+        {
+          "id": "table-ronde-atlas--noyer",
+          "productId": "table-ronde-atlas",
+          "sku": "SAL-TRA-116",
+          "label": {
+            "fr": "Noyer",
+            "en": "Walnut"
+          },
+          "swatch": "#5c3d2a",
+          "price": 44000,
+          "stock": 12,
+          "materials": {
+            "wood": {
+              "color": "#5c3d2a",
+              "roughness": 0.5,
+              "clearcoat": 0.5,
+              "clearcoatRoughness": 0.3
+            },
+            "accent": {
+              "color": "#5c3d2a",
+              "roughness": 0.5,
+              "clearcoat": 0.5,
+              "clearcoatRoughness": 0.3
+            }
+          },
+          "options": {
+            "bois": "noyer"
+          }
+        },
+        {
+          "id": "table-ronde-atlas--marbre",
+          "productId": "table-ronde-atlas",
+          "sku": "SAL-TRA-117",
+          "label": {
+            "fr": "Plateau marbre blanc",
+            "en": "White marble top"
+          },
+          "swatch": "#eeeae4",
+          "price": 58000,
+          "stock": 12,
+          "materials": {
+            "wood": {
+              "color": "#b8895a",
+              "roughness": 0.55,
+              "clearcoat": 0.4,
+              "clearcoatRoughness": 0.35
+            },
+            "accent": {
+              "color": "#eeeae4",
+              "roughness": 0.2,
+              "clearcoat": 1,
+              "clearcoatRoughness": 0.1
+            }
+          },
+          "options": {
+            "bois": "chene",
+            "couleur": "marbre-blanc"
+          }
+        }
+      ]
+    },
+    {
+      "id": "table-rect-cedre",
+      "slug": "table-rect-cedre",
+      "weightKg": 24,
+      "deliveryDays": 10,
+      "rating": 4.4,
+      "ratingCount": 30,
+      "badges": [
+        "fabriqueEnAlgerie"
+      ],
+      "name": {
+        "fr": "Table basse Cèdre",
+        "en": "Cedre coffee table"
+      },
+      "brand": "Atelier Saluna",
+      "category": "tableRectangulaire",
+      "style": "moderne",
+      "description": {
+        "fr": "Table rectangulaire aux angles adoucis, tablette basse de rangement.",
+        "en": "Rectangular table with softened corners and a lower storage shelf."
+      },
+      "dimensions": {
+        "width": 120,
+        "depth": 60,
+        "height": 40
+      },
+      "materialsLabel": {
+        "fr": "Chêne, métal laqué",
+        "en": "Oak, lacquered metal"
+      },
+      "materials": {
+        "wood": {
+          "color": "#cfa774",
+          "roughness": 0.55,
+          "clearcoat": 0.4,
+          "clearcoatRoughness": 0.35
+        },
+        "accent": {
+          "color": "#cfa774",
+          "roughness": 0.55,
+          "clearcoat": 0.4,
+          "clearcoatRoughness": 0.35
+        },
+        "metal": {
+          "color": "#1e1e1e",
+          "metalness": 0.8,
+          "roughness": 0.45
+        }
+      },
+      "modelUrl": null,
+      "images": [],
+      "variants": [
+        {
+          "id": "table-rect-cedre--chene-clair",
+          "productId": "table-rect-cedre",
+          "sku": "SAL-TRC-118",
+          "label": {
+            "fr": "Chêne clair",
+            "en": "Light oak"
+          },
+          "swatch": "#cfa774",
+          "price": 45000,
+          "stock": 12,
+          "materials": {
+            "wood": {
+              "color": "#cfa774",
+              "roughness": 0.55,
+              "clearcoat": 0.4,
+              "clearcoatRoughness": 0.35
+            },
+            "accent": {
+              "color": "#cfa774",
+              "roughness": 0.55,
+              "clearcoat": 0.4,
+              "clearcoatRoughness": 0.35
+            }
+          },
+          "options": {
+            "bois": "chene-clair"
+          }
+        },
+        {
+          "id": "table-rect-cedre--noyer",
+          "productId": "table-rect-cedre",
+          "sku": "SAL-TRC-119",
+          "label": {
+            "fr": "Noyer",
+            "en": "Walnut"
+          },
+          "swatch": "#5c3d2a",
+          "price": 51000,
+          "stock": 12,
+          "materials": {
+            "wood": {
+              "color": "#5c3d2a",
+              "roughness": 0.5,
+              "clearcoat": 0.5,
+              "clearcoatRoughness": 0.3
+            },
+            "accent": {
+              "color": "#5c3d2a",
+              "roughness": 0.5,
+              "clearcoat": 0.5,
+              "clearcoatRoughness": 0.3
+            }
+          },
+          "options": {
+            "bois": "noyer"
+          }
+        },
+        {
+          "id": "table-rect-cedre--chene-noir",
+          "productId": "table-rect-cedre",
+          "sku": "SAL-TRC-120",
+          "label": {
+            "fr": "Chêne noir",
+            "en": "Black oak"
+          },
+          "swatch": "#2b2521",
+          "price": 48000,
+          "stock": 12,
+          "materials": {
+            "wood": {
+              "color": "#2b2521",
+              "roughness": 0.5,
+              "clearcoat": 0.4,
+              "clearcoatRoughness": 0.35
+            },
+            "accent": {
+              "color": "#2b2521",
+              "roughness": 0.5,
+              "clearcoat": 0.4,
+              "clearcoatRoughness": 0.35
+            }
+          },
+          "options": {
+            "bois": "chene-noir"
+          }
+        },
+        {
+          "id": "table-rect-cedre--travertin",
+          "productId": "table-rect-cedre",
+          "sku": "SAL-TRC-121",
+          "label": {
+            "fr": "Plateau travertin",
+            "en": "Travertine top"
+          },
+          "swatch": "#d9c7a8",
+          "price": 64000,
+          "stock": 12,
+          "materials": {
+            "wood": {
+              "color": "#2b2521",
+              "roughness": 0.5,
+              "clearcoat": 0.4,
+              "clearcoatRoughness": 0.35
+            },
+            "accent": {
+              "color": "#d9c7a8",
+              "roughness": 0.45,
+              "clearcoat": 0.6,
+              "clearcoatRoughness": 0.3
+            }
+          },
+          "options": {
+            "bois": "chene-noir",
+            "couleur": "travertin"
+          }
+        }
+      ]
+    },
+    {
+      "id": "table-gigogne-djanet",
+      "slug": "table-gigogne-djanet",
+      "weightKg": 16,
+      "deliveryDays": 10,
+      "rating": 4.7,
+      "ratingCount": 22,
+      "badges": [
+        "nouveau"
+      ],
+      "name": {
+        "fr": "Tables gigognes Djanet",
+        "en": "Djanet nesting tables"
+      },
+      "brand": "Casbah Design",
+      "category": "tableGigogne",
+      "style": "oriental",
+      "description": {
+        "fr": "Duo de tables rondes imbriquées, piètement en laiton brossé.",
+        "en": "Pair of round nesting tables on brushed brass legs."
+      },
+      "dimensions": {
+        "width": 95,
+        "depth": 70,
+        "height": 45
+      },
+      "materialsLabel": {
+        "fr": "Marbre, laiton",
+        "en": "Marble, brass"
+      },
+      "materials": {
+        "accent": {
+          "color": "#eeeae4",
+          "roughness": 0.2,
+          "clearcoat": 1,
+          "clearcoatRoughness": 0.1
+        },
+        "metal": {
+          "color": "#c9a66b",
+          "metalness": 1,
+          "roughness": 0.3
+        }
+      },
+      "modelUrl": null,
+      "images": [],
+      "variants": [
+        {
+          "id": "table-gigogne-djanet--marbre-blanc",
+          "productId": "table-gigogne-djanet",
+          "sku": "SAL-TGD-122",
+          "label": {
+            "fr": "Marbre blanc · laiton",
+            "en": "White marble · brass"
+          },
+          "swatch": "#eeeae4",
+          "price": 52000,
+          "stock": 12,
+          "materials": {
+            "accent": {
+              "color": "#eeeae4",
+              "roughness": 0.2,
+              "clearcoat": 1,
+              "clearcoatRoughness": 0.1
+            },
+            "metal": {
+              "color": "#c9a66b",
+              "metalness": 1,
+              "roughness": 0.3
+            }
+          },
+          "options": {
+            "couleur": "marbre-blanc"
+          }
+        },
+        {
+          "id": "table-gigogne-djanet--marbre-vert",
+          "productId": "table-gigogne-djanet",
+          "sku": "SAL-TGD-123",
+          "label": {
+            "fr": "Marbre vert · laiton",
+            "en": "Green marble · brass"
+          },
+          "swatch": "#2f4a3f",
+          "price": 56000,
+          "stock": 12,
+          "materials": {
+            "accent": {
+              "color": "#2f4a3f",
+              "roughness": 0.2,
+              "clearcoat": 1,
+              "clearcoatRoughness": 0.1
+            },
+            "metal": {
+              "color": "#c9a66b",
+              "metalness": 1,
+              "roughness": 0.3
+            }
+          },
+          "options": {
+            "couleur": "marbre-vert"
+          }
+        },
+        {
+          "id": "table-gigogne-djanet--noyer-noir",
+          "productId": "table-gigogne-djanet",
+          "sku": "SAL-TGD-124",
+          "label": {
+            "fr": "Noyer · métal noir",
+            "en": "Walnut · black metal"
+          },
+          "swatch": "#5c3d2a",
+          "price": 46000,
+          "stock": 12,
+          "materials": {
+            "accent": {
+              "color": "#5c3d2a",
+              "roughness": 0.5,
+              "clearcoat": 0.5,
+              "clearcoatRoughness": 0.3
+            },
+            "metal": {
+              "color": "#1e1e1e",
+              "metalness": 0.8,
+              "roughness": 0.45
+            }
+          },
+          "options": {
+            "couleur": "noyer"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tapis-berbere-atlas",
+      "slug": "tapis-berbere-atlas",
+      "weightKg": 12,
+      "deliveryDays": 7,
+      "rating": 4.8,
+      "ratingCount": 64,
+      "badges": [
+        "bestSeller",
+        "fabriqueEnAlgerie"
+      ],
+      "name": {
+        "fr": "Tapis berbère Atlas",
+        "en": "Atlas Berber rug"
+      },
+      "brand": "Maison Tassili",
+      "category": "tapis",
+      "style": "oriental",
+      "description": {
+        "fr": "Laine tissée main, motifs losanges traditionnels.",
+        "en": "Hand-woven wool, traditional diamond motifs."
+      },
+      "dimensions": {
+        "width": 240,
+        "depth": 170,
+        "height": 1.5
+      },
+      "materialsLabel": {
+        "fr": "100 % laine",
+        "en": "100% wool"
+      },
+      "materials": {
+        "fabric": {
+          "color": "#e6dcc8",
+          "roughness": 1
+        },
+        "accent": {
+          "color": "#3b3530",
+          "roughness": 1
+        }
+      },
+      "modelUrl": null,
+      "images": [],
+      "placeholder": "berber",
+      "variants": [
+        {
+          "id": "tapis-berbere-atlas--ecru-200",
+          "productId": "tapis-berbere-atlas",
+          "sku": "SAL-TBA-125",
+          "label": {
+            "fr": "Écru · 200 × 140",
+            "en": "Ecru · 200 × 140"
+          },
+          "swatch": "#e6dcc8",
+          "price": 34000,
+          "stock": 12,
+          "materials": {},
+          "options": {
+            "couleur": "ecru",
+            "taille": "200x140"
+          },
+          "dimensions": {
+            "width": 200,
+            "depth": 140,
+            "height": 1.5
+          }
+        },
+        {
+          "id": "tapis-berbere-atlas--ecru-240",
+          "productId": "tapis-berbere-atlas",
+          "sku": "SAL-TBA-126",
+          "label": {
+            "fr": "Écru · 240 × 170",
+            "en": "Ecru · 240 × 170"
+          },
+          "swatch": "#e6dcc8",
+          "price": 42000,
+          "stock": 12,
+          "materials": {},
+          "options": {
+            "couleur": "ecru",
+            "taille": "240x170"
+          }
+        },
+        {
+          "id": "tapis-berbere-atlas--ecru-300",
+          "productId": "tapis-berbere-atlas",
+          "sku": "SAL-TBA-127",
+          "label": {
+            "fr": "Écru · 300 × 200",
+            "en": "Ecru · 300 × 200"
+          },
+          "swatch": "#e6dcc8",
+          "price": 59000,
+          "stock": 12,
+          "materials": {},
+          "options": {
+            "couleur": "ecru",
+            "taille": "300x200"
+          },
+          "dimensions": {
+            "width": 300,
+            "depth": 200,
+            "height": 1.5
+          }
+        },
+        {
+          "id": "tapis-berbere-atlas--terracotta-240",
+          "productId": "tapis-berbere-atlas",
+          "sku": "SAL-TBA-128",
+          "label": {
+            "fr": "Terracotta · 240 × 170",
+            "en": "Terracotta · 240 × 170"
+          },
+          "swatch": "#b86a4b",
+          "price": 44000,
+          "stock": 12,
+          "materials": {
+            "fabric": {
+              "color": "#b86a4b",
+              "roughness": 1
+            },
+            "accent": {
+              "color": "#efe3cf",
+              "roughness": 1
+            }
+          },
+          "options": {
+            "couleur": "terracotta",
+            "taille": "240x170"
+          }
+        },
+        {
+          "id": "tapis-berbere-atlas--anthracite-240",
+          "productId": "tapis-berbere-atlas",
+          "sku": "SAL-TBA-129",
+          "label": {
+            "fr": "Anthracite · 240 × 170",
+            "en": "Charcoal · 240 × 170"
+          },
+          "swatch": "#44464a",
+          "price": 42000,
+          "stock": 12,
+          "materials": {
+            "fabric": {
+              "color": "#44464a",
+              "roughness": 1
+            },
+            "accent": {
+              "color": "#d9d2c5",
+              "roughness": 1
+            }
+          },
+          "options": {
+            "couleur": "anthracite",
+            "taille": "240x170"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tapis-jute-tassili",
+      "slug": "tapis-jute-tassili",
+      "weightKg": 9,
+      "deliveryDays": 7,
+      "rating": 4.3,
+      "ratingCount": 38,
+      "badges": [],
+      "name": {
+        "fr": "Tapis jute Tassili",
+        "en": "Tassili jute rug"
+      },
+      "brand": "Maison Tassili",
+      "category": "tapis",
+      "style": "scandinave",
+      "description": {
+        "fr": "Jute naturel tressé, bordure coton.",
+        "en": "Braided natural jute, cotton border."
+      },
+      "dimensions": {
+        "width": 230,
+        "depth": 160,
+        "height": 1
+      },
+      "materialsLabel": {
+        "fr": "Jute, coton",
+        "en": "Jute, cotton"
+      },
+      "materials": {
+        "fabric": {
+          "color": "#c4a574",
+          "roughness": 1
+        },
+        "accent": {
+          "color": "#c4a574",
+          "roughness": 1
+        }
+      },
+      "modelUrl": null,
+      "images": [],
+      "placeholder": "plain",
+      "variants": [
+        {
+          "id": "tapis-jute-tassili--naturel",
+          "productId": "tapis-jute-tassili",
+          "sku": "SAL-TJT-130",
+          "label": {
+            "fr": "Naturel",
+            "en": "Natural"
+          },
+          "swatch": "#c4a574",
+          "price": 19000,
+          "stock": 12,
+          "materials": {},
+          "options": {
+            "couleur": "naturel"
+          }
+        },
+        {
+          "id": "tapis-jute-tassili--bord-noir",
+          "productId": "tapis-jute-tassili",
+          "sku": "SAL-TJT-131",
+          "label": {
+            "fr": "Naturel bordure noire",
+            "en": "Natural, black border"
+          },
+          "swatch": "#2a2a2a",
+          "price": 21000,
+          "stock": 12,
+          "materials": {
+            "accent": {
+              "color": "#2a2a2a",
+              "roughness": 1
+            }
+          },
+          "options": {
+            "couleur": "noir"
+          }
+        },
+        {
+          "id": "tapis-jute-tassili--blanchi",
+          "productId": "tapis-jute-tassili",
+          "sku": "SAL-TJT-132",
+          "label": {
+            "fr": "Blanchi",
+            "en": "Bleached"
+          },
+          "swatch": "#e2d6bf",
+          "price": 21000,
+          "stock": 12,
+          "materials": {
+            "fabric": {
+              "color": "#e2d6bf",
+              "roughness": 1
+            },
+            "accent": {
+              "color": "#e2d6bf",
+              "roughness": 1
+            }
+          },
+          "options": {
+            "couleur": "ecru"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tapis-laine-mzab",
+      "slug": "tapis-laine-mzab",
+      "weightKg": 14,
+      "deliveryDays": 10,
+      "rating": 4.6,
+      "ratingCount": 17,
+      "badges": [
+        "fabriqueEnAlgerie"
+      ],
+      "name": {
+        "fr": "Tapis laine Mzab",
+        "en": "Mzab wool rug"
+      },
+      "brand": "Casbah Design",
+      "category": "tapis",
+      "style": "classique",
+      "description": {
+        "fr": "Tapis à rayures inspiré des tissages du Mzab.",
+        "en": "Striped rug inspired by Mzab weaving."
+      },
+      "dimensions": {
+        "width": 280,
+        "depth": 190,
+        "height": 1.2
+      },
+      "materialsLabel": {
+        "fr": "Laine, coton",
+        "en": "Wool, cotton"
+      },
+      "materials": {
+        "fabric": {
+          "color": "#3d5a7a",
+          "roughness": 1
+        },
+        "accent": {
+          "color": "#e8dcc6",
+          "roughness": 1
+        }
+      },
+      "modelUrl": null,
+      "images": [],
+      "placeholder": "stripes",
+      "variants": [
+        {
+          "id": "tapis-laine-mzab--bleu",
+          "productId": "tapis-laine-mzab",
+          "sku": "SAL-TLM-133",
+          "label": {
+            "fr": "Bleu indigo",
+            "en": "Indigo blue"
+          },
+          "swatch": "#3d5a7a",
+          "price": 48000,
+          "stock": 12,
+          "materials": {},
+          "options": {
+            "couleur": "bleu"
+          }
+        },
+        {
+          "id": "tapis-laine-mzab--vert",
+          "productId": "tapis-laine-mzab",
+          "sku": "SAL-TLM-134",
+          "label": {
+            "fr": "Vert sauge",
+            "en": "Sage green"
+          },
+          "swatch": "#5e7255",
+          "price": 48000,
+          "stock": 12,
+          "materials": {
+            "fabric": {
+              "color": "#5e7255",
+              "roughness": 1
+            }
+          },
+          "options": {
+            "couleur": "vert"
+          }
+        },
+        {
+          "id": "tapis-laine-mzab--rouge",
+          "productId": "tapis-laine-mzab",
+          "sku": "SAL-TLM-135",
+          "label": {
+            "fr": "Rouge garance",
+            "en": "Madder red"
+          },
+          "swatch": "#8e3b2e",
+          "price": 51000,
+          "stock": 12,
+          "materials": {
+            "fabric": {
+              "color": "#8e3b2e",
+              "roughness": 1
+            }
+          },
+          "options": {
+            "couleur": "rouge"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fauteuil-cocoon-bejaia",
+      "slug": "fauteuil-cocoon-bejaia",
+      "weightKg": 22,
+      "deliveryDays": 10,
+      "rating": 4.7,
+      "ratingCount": 45,
+      "badges": [
+        "fabriqueEnAlgerie"
+      ],
+      "name": {
+        "fr": "Fauteuil cocon Béjaïa",
+        "en": "Bejaia cocoon armchair"
+      },
+      "brand": "Atelier Saluna",
+      "category": "fauteuil",
+      "style": "moderne",
+      "description": {
+        "fr": "Dossier enveloppant et assise moelleuse, idéal pour la lecture.",
+        "en": "Enveloping back and plush seat, perfect for reading."
+      },
+      "dimensions": {
+        "width": 80,
+        "depth": 82,
+        "height": 78
+      },
+      "materialsLabel": {
+        "fr": "Tissu, chêne",
+        "en": "Fabric, oak"
+      },
+      "materials": {
+        "fabric": {
+          "color": "#ede6d8",
+          "roughness": 0.95,
+          "sheen": 0.7,
+          "sheenColor": "#ffffff",
+          "sheenRoughness": 0.9
+        },
+        "accent": {
+          "color": "#ede6d8",
+          "roughness": 0.95,
+          "sheen": 0.7,
+          "sheenColor": "#ffffff",
+          "sheenRoughness": 0.9
+        },
+        "wood": {
+          "color": "#b8895a",
+          "roughness": 0.55,
+          "clearcoat": 0.4,
+          "clearcoatRoughness": 0.35
+        }
+      },
+      "modelUrl": null,
+      "images": [],
+      "variants": [
+        {
+          "id": "fauteuil-cocoon-bejaia--boucle-ivoire",
+          "productId": "fauteuil-cocoon-bejaia",
+          "sku": "SAL-FCB-136",
+          "label": {
+            "fr": "Bouclé ivoire",
+            "en": "Ivory bouclé"
+          },
+          "swatch": "#ede6d8",
+          "price": 69000,
+          "stock": 12,
+          "materials": {},
+          "options": {
+            "tissu": "boucle"
+          }
+        },
+        {
+          "id": "fauteuil-cocoon-bejaia--velours-moutarde",
+          "productId": "fauteuil-cocoon-bejaia",
+          "sku": "SAL-FCB-137",
+          "label": {
+            "fr": "Velours moutarde",
+            "en": "Mustard velvet"
+          },
+          "swatch": "#c89b3c",
+          "price": 74000,
+          "stock": 12,
+          "materials": {
+            "fabric": {
+              "color": "#c89b3c",
+              "roughness": 0.8,
+              "sheen": 1,
+              "sheenColor": "#ecc873",
+              "sheenRoughness": 0.4
+            },
+            "accent": {
+              "color": "#c89b3c",
+              "roughness": 0.8,
+              "sheen": 1,
+              "sheenColor": "#ecc873",
+              "sheenRoughness": 0.4
+            }
+          },
+          "options": {
+            "tissu": "velours"
+          }
+        },
+        {
+          "id": "fauteuil-cocoon-bejaia--lin-sauge",
+          "productId": "fauteuil-cocoon-bejaia",
+          "sku": "SAL-FCB-138",
+          "label": {
+            "fr": "Lin sauge",
+            "en": "Sage linen"
+          },
+          "swatch": "#9ca98a",
+          "price": 66000,
+          "stock": 12,
+          "materials": {
+            "fabric": {
+              "color": "#9ca98a",
+              "roughness": 0.9,
+              "sheen": 0.6,
+              "sheenColor": "#d3dcc4",
+              "sheenRoughness": 0.8
+            },
+            "accent": {
+              "color": "#9ca98a",
+              "roughness": 0.9,
+              "sheen": 0.6,
+              "sheenColor": "#d3dcc4",
+              "sheenRoughness": 0.8
+            }
+          },
+          "options": {
+            "tissu": "lin"
+          }
+        },
+        {
+          "id": "fauteuil-cocoon-bejaia--velours-bleu",
+          "productId": "fauteuil-cocoon-bejaia",
+          "sku": "SAL-FCB-139",
+          "label": {
+            "fr": "Velours bleu nuit",
+            "en": "Midnight velvet"
+          },
+          "swatch": "#1f2a44",
+          "price": 74000,
+          "stock": 12,
+          "materials": {
+            "fabric": {
+              "color": "#1f2a44",
+              "roughness": 0.8,
+              "sheen": 1,
+              "sheenColor": "#4a5a88",
+              "sheenRoughness": 0.4
+            },
+            "accent": {
+              "color": "#1f2a44",
+              "roughness": 0.8,
+              "sheen": 1,
+              "sheenColor": "#4a5a88",
+              "sheenRoughness": 0.4
+            },
+            "wood": {
+              "color": "#5c3d2a",
+              "roughness": 0.5,
+              "clearcoat": 0.5,
+              "clearcoatRoughness": 0.3
+            }
+          },
+          "options": {
+            "tissu": "velours"
+          }
+        }
+      ]
+    },
+    {
+      "id": "chauffeuse-jijel",
+      "slug": "chauffeuse-jijel",
+      "weightKg": 14,
+      "deliveryDays": 10,
+      "rating": 4.3,
+      "ratingCount": 27,
+      "badges": [],
+      "name": {
+        "fr": "Chauffeuse Jijel",
+        "en": "Jijel slipper chair"
+      },
+      "brand": "Nordhem",
+      "category": "chauffeuse",
+      "style": "scandinave",
+      "description": {
+        "fr": "Chauffeuse basse sans accoudoirs, pieds compas.",
+        "en": "Low armless slipper chair on splayed legs."
+      },
+      "dimensions": {
+        "width": 68,
+        "depth": 76,
+        "height": 74
+      },
+      "materialsLabel": {
+        "fr": "Tissu, hêtre",
+        "en": "Fabric, beech"
+      },
+      "materials": {
+        "fabric": {
+          "color": "#a7a5a0",
+          "roughness": 0.92,
+          "sheen": 0.6,
+          "sheenColor": "#d6d4cf",
+          "sheenRoughness": 0.7
+        },
+        "accent": {
+          "color": "#a7a5a0",
+          "roughness": 0.92,
+          "sheen": 0.6,
+          "sheenColor": "#d6d4cf",
+          "sheenRoughness": 0.7
+        },
+        "wood": {
+          "color": "#cfa774",
+          "roughness": 0.55,
+          "clearcoat": 0.4,
+          "clearcoatRoughness": 0.35
+        }
+      },
+      "modelUrl": null,
+      "images": [],
+      "variants": [
+        {
+          "id": "chauffeuse-jijel--chenille-gris",
+          "productId": "chauffeuse-jijel",
+          "sku": "SAL-CJ-140",
+          "label": {
+            "fr": "Chenille gris perle",
+            "en": "Pearl grey chenille"
+          },
+          "swatch": "#a7a5a0",
+          "price": 45000,
+          "stock": 12,
+          "materials": {},
+          "options": {
+            "tissu": "chenille"
+          }
+        },
+        {
+          "id": "chauffeuse-jijel--terracotta",
+          "productId": "chauffeuse-jijel",
+          "sku": "SAL-CJ-141",
+          "label": {
+            "fr": "Velours terracotta",
+            "en": "Terracotta velvet"
+          },
+          "swatch": "#b0603f",
+          "price": 49000,
+          "stock": 12,
+          "materials": {
+            "fabric": {
+              "color": "#b0603f",
+              "roughness": 0.8,
+              "sheen": 1,
+              "sheenColor": "#e0957a",
+              "sheenRoughness": 0.4
+            },
+            "accent": {
+              "color": "#b0603f",
+              "roughness": 0.8,
+              "sheen": 1,
+              "sheenColor": "#e0957a",
+              "sheenRoughness": 0.4
+            }
+          },
+          "options": {
+            "tissu": "velours"
+          }
+        },
+        {
+          "id": "chauffeuse-jijel--lin-naturel",
+          "productId": "chauffeuse-jijel",
+          "sku": "SAL-CJ-142",
+          "label": {
+            "fr": "Lin naturel",
+            "en": "Natural linen"
+          },
+          "swatch": "#d8cbb3",
+          "price": 45000,
+          "stock": 12,
+          "materials": {
+            "fabric": {
+              "color": "#d8cbb3",
+              "roughness": 0.9,
+              "sheen": 0.6,
+              "sheenColor": "#f5ecdc",
+              "sheenRoughness": 0.8
+            },
+            "accent": {
+              "color": "#d8cbb3",
+              "roughness": 0.9,
+              "sheen": 0.6,
+              "sheenColor": "#f5ecdc",
+              "sheenRoughness": 0.8
+            }
+          },
+          "options": {
+            "tissu": "lin"
+          },
+          "compareAtPrice": 52000
+        }
+      ]
+    },
+    {
+      "id": "rocking-chair-hoggar",
+      "slug": "rocking-chair-hoggar",
+      "weightKg": 16,
+      "deliveryDays": 14,
+      "rating": 4.9,
+      "ratingCount": 14,
+      "badges": [
+        "fabriqueEnAlgerie"
+      ],
+      "name": {
+        "fr": "Rocking-chair Hoggar",
+        "en": "Hoggar rocking chair"
+      },
+      "brand": "Bois d'Atlas",
+      "category": "rockingChair",
+      "style": "scandinave",
+      "description": {
+        "fr": "Bois massif cintré et coussin en lin, balancement doux.",
+        "en": "Bent solid wood with a linen cushion, gentle rocking."
+      },
+      "dimensions": {
+        "width": 66,
+        "depth": 95,
+        "height": 96
+      },
+      "materialsLabel": {
+        "fr": "Chêne massif, lin",
+        "en": "Solid oak, linen"
+      },
+      "materials": {
+        "wood": {
+          "color": "#b8895a",
+          "roughness": 0.55,
+          "clearcoat": 0.4,
+          "clearcoatRoughness": 0.35
+        },
+        "fabric": {
+          "color": "#d8cbb3",
+          "roughness": 0.9,
+          "sheen": 0.6,
+          "sheenColor": "#f5ecdc",
+          "sheenRoughness": 0.8
+        },
+        "accent": {
+          "color": "#d8cbb3",
+          "roughness": 0.9,
+          "sheen": 0.6,
+          "sheenColor": "#f5ecdc",
+          "sheenRoughness": 0.8
+        }
+      },
+      "modelUrl": null,
+      "images": [],
+      "variants": [
+        {
+          "id": "rocking-chair-hoggar--chene-lin",
+          "productId": "rocking-chair-hoggar",
+          "sku": "SAL-RCH-143",
+          "label": {
+            "fr": "Chêne · lin naturel",
+            "en": "Oak · natural linen"
+          },
+          "swatch": "#b8895a",
+          "price": 58000,
+          "stock": 12,
+          "materials": {},
+          "options": {
+            "bois": "chene",
+            "tissu": "lin"
+          }
+        },
+        {
+          "id": "rocking-chair-hoggar--noyer-lin",
+          "productId": "rocking-chair-hoggar",
+          "sku": "SAL-RCH-144",
+          "label": {
+            "fr": "Noyer · lin naturel",
+            "en": "Walnut · natural linen"
+          },
+          "swatch": "#5c3d2a",
+          "price": 64000,
+          "stock": 12,
+          "materials": {
+            "wood": {
+              "color": "#5c3d2a",
+              "roughness": 0.5,
+              "clearcoat": 0.5,
+              "clearcoatRoughness": 0.3
+            }
+          },
+          "options": {
+            "bois": "noyer",
+            "tissu": "lin"
+          }
+        },
+        {
+          "id": "rocking-chair-hoggar--chene-olive",
+          "productId": "rocking-chair-hoggar",
+          "sku": "SAL-RCH-145",
+          "label": {
+            "fr": "Chêne · velours olive",
+            "en": "Oak · olive velvet"
+          },
+          "swatch": "#5e6b3a",
+          "price": 61000,
+          "stock": 12,
+          "materials": {
+            "fabric": {
+              "color": "#5e6b3a",
+              "roughness": 0.8,
+              "sheen": 1,
+              "sheenColor": "#9aa46a",
+              "sheenRoughness": 0.4
+            },
+            "accent": {
+              "color": "#5e6b3a",
+              "roughness": 0.8,
+              "sheen": 1,
+              "sheenColor": "#9aa46a",
+              "sheenRoughness": 0.4
+            }
+          },
+          "options": {
+            "bois": "chene",
+            "tissu": "velours"
+          }
+        }
+      ]
+    },
+    {
+      "id": "meuble-tv-cedre",
+      "slug": "meuble-tv-cedre",
+      "weightKg": 38,
+      "deliveryDays": 14,
+      "rating": 4.6,
+      "ratingCount": 51,
+      "badges": [
+        "bestSeller",
+        "fabriqueEnAlgerie"
+      ],
+      "name": {
+        "fr": "Meuble TV Cèdre",
+        "en": "Cedre TV unit"
+      },
+      "brand": "Atelier Saluna",
+      "category": "meubleTV",
+      "style": "moderne",
+      "description": {
+        "fr": "Meuble bas à trois portes cannelées, passe-câbles intégrés.",
+        "en": "Low unit with three fluted doors and built-in cable management."
+      },
+      "dimensions": {
+        "width": 180,
+        "depth": 42,
+        "height": 50
+      },
+      "materialsLabel": {
+        "fr": "Chêne plaqué, métal",
+        "en": "Oak veneer, metal"
+      },
+      "materials": {
+        "wood": {
+          "color": "#b8895a",
+          "roughness": 0.55,
+          "clearcoat": 0.4,
+          "clearcoatRoughness": 0.35
+        },
+        "accent": {
+          "color": "#b8895a",
+          "roughness": 0.55,
+          "clearcoat": 0.4,
+          "clearcoatRoughness": 0.35
+        },
+        "metal": {
+          "color": "#1e1e1e",
+          "metalness": 0.8,
+          "roughness": 0.45
+        }
+      },
+      "modelUrl": null,
+      "images": [],
+      "variants": [
+        {
+          "id": "meuble-tv-cedre--chene",
+          "productId": "meuble-tv-cedre",
+          "sku": "SAL-MTC-146",
+          "label": {
+            "fr": "Chêne naturel",
+            "en": "Natural oak"
+          },
+          "swatch": "#b8895a",
+          "price": 59000,
+          "stock": 12,
+          "materials": {},
+          "options": {
+            "bois": "chene"
+          }
+        },
+        {
+          "id": "meuble-tv-cedre--noyer",
+          "productId": "meuble-tv-cedre",
+          "sku": "SAL-MTC-147",
+          "label": {
+            "fr": "Noyer",
+            "en": "Walnut"
+          },
+          "swatch": "#5c3d2a",
+          "price": 66000,
+          "stock": 12,
+          "materials": {
+            "wood": {
+              "color": "#5c3d2a",
+              "roughness": 0.5,
+              "clearcoat": 0.5,
+              "clearcoatRoughness": 0.3
+            },
+            "accent": {
+              "color": "#5c3d2a",
+              "roughness": 0.5,
+              "clearcoat": 0.5,
+              "clearcoatRoughness": 0.3
+            }
+          },
+          "options": {
+            "bois": "noyer"
+          }
+        },
+        {
+          "id": "meuble-tv-cedre--blanc",
+          "productId": "meuble-tv-cedre",
+          "sku": "SAL-MTC-148",
+          "label": {
+            "fr": "Laque blanc mat",
+            "en": "Matte white lacquer"
+          },
+          "swatch": "#edebe6",
+          "price": 62000,
+          "stock": 12,
+          "materials": {
+            "wood": {
+              "color": "#edebe6",
+              "roughness": 0.6
+            },
+            "accent": {
+              "color": "#edebe6",
+              "roughness": 0.6
+            },
+            "metal": {
+              "color": "#c9a66b",
+              "metalness": 1,
+              "roughness": 0.3
+            }
+          },
+          "options": {
+            "couleur": "blanc"
+          }
+        }
+      ]
+    },
+    {
+      "id": "meuble-tv-casbah",
+      "slug": "meuble-tv-casbah",
+      "weightKg": 45,
+      "deliveryDays": 21,
+      "rating": 4.8,
+      "ratingCount": 16,
+      "badges": [
+        "fabriqueEnAlgerie"
+      ],
+      "name": {
+        "fr": "Meuble TV Casbah",
+        "en": "Casbah TV unit"
+      },
+      "brand": "Casbah Design",
+      "category": "meubleTV",
+      "style": "oriental",
+      "description": {
+        "fr": "Façades inspirées des moucharabiehs, poignées en laiton.",
+        "en": "Mashrabiya-inspired fronts with brass handles."
+      },
+      "dimensions": {
+        "width": 200,
+        "depth": 45,
+        "height": 55
+      },
+      "materialsLabel": {
+        "fr": "Noyer massif, laiton",
+        "en": "Solid walnut, brass"
+      },
+      "materials": {
+        "wood": {
+          "color": "#5c3d2a",
+          "roughness": 0.5,
+          "clearcoat": 0.5,
+          "clearcoatRoughness": 0.3
+        },
+        "accent": {
+          "color": "#5c3d2a",
+          "roughness": 0.5,
+          "clearcoat": 0.5,
+          "clearcoatRoughness": 0.3
+        },
+        "metal": {
+          "color": "#c9a66b",
+          "metalness": 1,
+          "roughness": 0.3
+        }
+      },
+      "modelUrl": null,
+      "images": [],
+      "variants": [
+        {
+          "id": "meuble-tv-casbah--noyer-laiton",
+          "productId": "meuble-tv-casbah",
+          "sku": "SAL-MTC-149",
+          "label": {
+            "fr": "Noyer · laiton",
+            "en": "Walnut · brass"
+          },
+          "swatch": "#5c3d2a",
+          "price": 98000,
+          "stock": 12,
+          "materials": {},
+          "options": {
+            "bois": "noyer"
+          }
+        },
+        {
+          "id": "meuble-tv-casbah--chene-noir-laiton",
+          "productId": "meuble-tv-casbah",
+          "sku": "SAL-MTC-150",
+          "label": {
+            "fr": "Chêne noir · laiton",
+            "en": "Black oak · brass"
+          },
+          "swatch": "#2b2521",
+          "price": 94000,
+          "stock": 12,
+          "materials": {
+            "wood": {
+              "color": "#2b2521",
+              "roughness": 0.5,
+              "clearcoat": 0.4,
+              "clearcoatRoughness": 0.35
+            },
+            "accent": {
+              "color": "#2b2521",
+              "roughness": 0.5,
+              "clearcoat": 0.4,
+              "clearcoatRoughness": 0.35
+            }
+          },
+          "options": {
+            "bois": "chene-noir"
+          }
+        },
+        {
+          "id": "meuble-tv-casbah--chene-bronze",
+          "productId": "meuble-tv-casbah",
+          "sku": "SAL-MTC-151",
+          "label": {
+            "fr": "Chêne · bronze",
+            "en": "Oak · bronze"
+          },
+          "swatch": "#b8895a",
+          "price": 92000,
+          "stock": 12,
+          "materials": {
+            "wood": {
+              "color": "#b8895a",
+              "roughness": 0.55,
+              "clearcoat": 0.4,
+              "clearcoatRoughness": 0.35
+            },
+            "accent": {
+              "color": "#b8895a",
+              "roughness": 0.55,
+              "clearcoat": 0.4,
+              "clearcoatRoughness": 0.35
+            },
+            "metal": {
+              "color": "#6e5238",
+              "metalness": 1,
+              "roughness": 0.4
+            }
+          },
+          "options": {
+            "bois": "chene"
+          }
+        }
+      ]
+    },
+    {
+      "id": "console-timgad",
+      "slug": "console-timgad",
+      "weightKg": 20,
+      "deliveryDays": 10,
+      "rating": 4.4,
+      "ratingCount": 21,
+      "badges": [],
+      "name": {
+        "fr": "Console Timgad",
+        "en": "Timgad console"
+      },
+      "brand": "Djurdjura Mobilier",
+      "category": "console",
+      "style": "classique",
+      "description": {
+        "fr": "Console fine en marbre sur structure métallique.",
+        "en": "Slim marble console on a metal frame."
+      },
+      "dimensions": {
+        "width": 140,
+        "depth": 35,
+        "height": 75
+      },
+      "materialsLabel": {
+        "fr": "Marbre, acier",
+        "en": "Marble, steel"
+      },
+      "materials": {
+        "accent": {
+          "color": "#eeeae4",
+          "roughness": 0.2,
+          "clearcoat": 1,
+          "clearcoatRoughness": 0.1
+        },
+        "metal": {
+          "color": "#1e1e1e",
+          "metalness": 0.8,
+          "roughness": 0.45
+        }
+      },
+      "modelUrl": null,
+      "images": [],
+      "variants": [
+        {
+          "id": "console-timgad--marbre-noir",
+          "productId": "console-timgad",
+          "sku": "SAL-CT-152",
+          "label": {
+            "fr": "Marbre blanc · acier noir",
+            "en": "White marble · black steel"
+          },
+          "swatch": "#eeeae4",
+          "price": 54000,
+          "stock": 12,
+          "materials": {},
+          "options": {
+            "couleur": "marbre-blanc"
+          }
+        },
+        {
+          "id": "console-timgad--marbre-laiton",
+          "productId": "console-timgad",
+          "sku": "SAL-CT-153",
+          "label": {
+            "fr": "Marbre blanc · laiton",
+            "en": "White marble · brass"
+          },
+          "swatch": "#c9a66b",
+          "price": 61000,
+          "stock": 12,
+          "materials": {
+            "metal": {
+              "color": "#c9a66b",
+              "metalness": 1,
+              "roughness": 0.3
+            }
+          },
+          "options": {
+            "couleur": "marbre-blanc"
+          }
+        },
+        {
+          "id": "console-timgad--travertin",
+          "productId": "console-timgad",
+          "sku": "SAL-CT-154",
+          "label": {
+            "fr": "Travertin · acier noir",
+            "en": "Travertine · black steel"
+          },
+          "swatch": "#d9c7a8",
+          "price": 57000,
+          "stock": 12,
+          "materials": {
+            "accent": {
+              "color": "#d9c7a8",
+              "roughness": 0.45,
+              "clearcoat": 0.6,
+              "clearcoatRoughness": 0.3
+            }
+          },
+          "options": {
+            "couleur": "travertin"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bibliotheque-ksar",
+      "slug": "bibliotheque-ksar",
+      "weightKg": 48,
+      "deliveryDays": 14,
+      "rating": 4.5,
+      "ratingCount": 33,
+      "badges": [
+        "fabriqueEnAlgerie"
+      ],
+      "name": {
+        "fr": "Bibliothèque Ksar",
+        "en": "Ksar bookcase"
+      },
+      "brand": "Bois d'Atlas",
+      "category": "bibliotheque",
+      "style": "scandinave",
+      "description": {
+        "fr": "Cinq niveaux ouverts, montants arrondis.",
+        "en": "Five open shelves with rounded uprights."
+      },
+      "dimensions": {
+        "width": 100,
+        "depth": 35,
+        "height": 200
+      },
+      "materialsLabel": {
+        "fr": "Chêne massif",
+        "en": "Solid oak"
+      },
+      "materials": {
+        "wood": {
+          "color": "#b8895a",
+          "roughness": 0.55,
+          "clearcoat": 0.4,
+          "clearcoatRoughness": 0.35
+        },
+        "accent": {
+          "color": "#b8895a",
+          "roughness": 0.55,
+          "clearcoat": 0.4,
+          "clearcoatRoughness": 0.35
+        }
+      },
+      "modelUrl": null,
+      "images": [],
+      "variants": [
+        {
+          "id": "bibliotheque-ksar--chene",
+          "productId": "bibliotheque-ksar",
+          "sku": "SAL-BK-155",
+          "label": {
+            "fr": "Chêne naturel",
+            "en": "Natural oak"
+          },
+          "swatch": "#b8895a",
+          "price": 65000,
+          "stock": 12,
+          "materials": {},
+          "options": {
+            "bois": "chene"
+          }
+        },
+        {
+          "id": "bibliotheque-ksar--noyer",
+          "productId": "bibliotheque-ksar",
+          "sku": "SAL-BK-156",
+          "label": {
+            "fr": "Noyer",
+            "en": "Walnut"
+          },
+          "swatch": "#5c3d2a",
+          "price": 72000,
+          "stock": 12,
+          "materials": {
+            "wood": {
+              "color": "#5c3d2a",
+              "roughness": 0.5,
+              "clearcoat": 0.5,
+              "clearcoatRoughness": 0.3
+            },
+            "accent": {
+              "color": "#5c3d2a",
+              "roughness": 0.5,
+              "clearcoat": 0.5,
+              "clearcoatRoughness": 0.3
+            }
+          },
+          "options": {
+            "bois": "noyer"
+          }
+        },
+        {
+          "id": "bibliotheque-ksar--blanc",
+          "productId": "bibliotheque-ksar",
+          "sku": "SAL-BK-157",
+          "label": {
+            "fr": "Laque blanc mat",
+            "en": "Matte white lacquer"
+          },
+          "swatch": "#edebe6",
+          "price": 68000,
+          "stock": 12,
+          "materials": {
+            "wood": {
+              "color": "#edebe6",
+              "roughness": 0.6
+            },
+            "accent": {
+              "color": "#edebe6",
+              "roughness": 0.6
+            }
+          },
+          "options": {
+            "couleur": "blanc"
+          }
+        }
+      ]
+    },
+    {
+      "id": "vaisselier-constantine",
+      "slug": "vaisselier-constantine",
+      "weightKg": 75,
+      "deliveryDays": 28,
+      "rating": 4.7,
+      "ratingCount": 11,
+      "badges": [
+        "fabriqueEnAlgerie"
+      ],
+      "name": {
+        "fr": "Vaisselier Constantine",
+        "en": "Constantine dresser"
+      },
+      "brand": "Djurdjura Mobilier",
+      "category": "vaisselier",
+      "style": "classique",
+      "description": {
+        "fr": "Buffet bas et vitrine haute, portes vitrées et poignées laiton.",
+        "en": "Low sideboard with a tall glazed display cabinet and brass handles."
+      },
+      "dimensions": {
+        "width": 120,
+        "depth": 45,
+        "height": 190
+      },
+      "materialsLabel": {
+        "fr": "Noyer, verre, laiton",
+        "en": "Walnut, glass, brass"
+      },
+      "materials": {
+        "wood": {
+          "color": "#5c3d2a",
+          "roughness": 0.5,
+          "clearcoat": 0.5,
+          "clearcoatRoughness": 0.3
+        },
+        "accent": {
+          "color": "#5c3d2a",
+          "roughness": 0.5,
+          "clearcoat": 0.5,
+          "clearcoatRoughness": 0.3
+        },
+        "glass": {
+          "color": "#dfe9ec",
+          "transmission": 0.9,
+          "roughness": 0.05,
+          "opacity": 0.35
+        },
+        "metal": {
+          "color": "#c9a66b",
+          "metalness": 1,
+          "roughness": 0.3
+        }
+      },
+      "modelUrl": null,
+      "images": [],
+      "variants": [
+        {
+          "id": "vaisselier-constantine--noyer",
+          "productId": "vaisselier-constantine",
+          "sku": "SAL-VC-158",
+          "label": {
+            "fr": "Noyer",
+            "en": "Walnut"
+          },
+          "swatch": "#5c3d2a",
+          "price": 139000,
+          "stock": 12,
+          "materials": {},
+          "options": {
+            "bois": "noyer"
+          }
+        },
+        {
+          "id": "vaisselier-constantine--chene",
+          "productId": "vaisselier-constantine",
+          "sku": "SAL-VC-159",
+          "label": {
+            "fr": "Chêne naturel",
+            "en": "Natural oak"
+          },
+          "swatch": "#b8895a",
+          "price": 129000,
+          "stock": 12,
+          "materials": {
+            "wood": {
+              "color": "#b8895a",
+              "roughness": 0.55,
+              "clearcoat": 0.4,
+              "clearcoatRoughness": 0.35
+            },
+            "accent": {
+              "color": "#b8895a",
+              "roughness": 0.55,
+              "clearcoat": 0.4,
+              "clearcoatRoughness": 0.35
+            }
+          },
+          "options": {
+            "bois": "chene"
+          }
+        },
+        {
+          "id": "vaisselier-constantine--vert",
+          "productId": "vaisselier-constantine",
+          "sku": "SAL-VC-160",
+          "label": {
+            "fr": "Laque vert sauge",
+            "en": "Sage green lacquer"
+          },
+          "swatch": "#8e9b82",
+          "price": 145000,
+          "stock": 12,
+          "materials": {
+            "wood": {
+              "color": "#8e9b82",
+              "roughness": 0.55
+            },
+            "accent": {
+              "color": "#8e9b82",
+              "roughness": 0.55
+            }
+          },
+          "options": {
+            "couleur": "vert"
+          }
+        }
+      ]
+    },
+    {
+      "id": "etagere-murale-tlemcen",
+      "slug": "etagere-murale-tlemcen",
+      "weightKg": 9,
+      "deliveryDays": 7,
+      "rating": 4.2,
+      "ratingCount": 29,
+      "badges": [
+        "nouveau"
+      ],
+      "name": {
+        "fr": "Étagère murale Tlemcen",
+        "en": "Tlemcen wall shelf"
+      },
+      "brand": "Nordhem",
+      "category": "etagereMurale",
+      "style": "moderne",
+      "description": {
+        "fr": "Trois tablettes flottantes à fixations invisibles.",
+        "en": "Three floating shelves with hidden fixings."
+      },
+      "dimensions": {
+        "width": 120,
+        "depth": 25,
+        "height": 90
+      },
+      "elevation": 110,
+      "materialsLabel": {
+        "fr": "Chêne, acier",
+        "en": "Oak, steel"
+      },
+      "materials": {
+        "wood": {
+          "color": "#b8895a",
+          "roughness": 0.55,
+          "clearcoat": 0.4,
+          "clearcoatRoughness": 0.35
+        },
+        "accent": {
+          "color": "#b8895a",
+          "roughness": 0.55,
+          "clearcoat": 0.4,
+          "clearcoatRoughness": 0.35
+        },
+        "metal": {
+          "color": "#1e1e1e",
+          "metalness": 0.8,
+          "roughness": 0.45
+        }
+      },
+      "modelUrl": null,
+      "images": [],
+      "variants": [
+        {
+          "id": "etagere-murale-tlemcen--chene",
+          "productId": "etagere-murale-tlemcen",
+          "sku": "SAL-EMT-161",
+          "label": {
+            "fr": "Chêne naturel",
+            "en": "Natural oak"
+          },
+          "swatch": "#b8895a",
+          "price": 18000,
+          "stock": 12,
+          "materials": {},
+          "options": {
+            "bois": "chene"
+          }
+        },
+        {
+          "id": "etagere-murale-tlemcen--noyer",
+          "productId": "etagere-murale-tlemcen",
+          "sku": "SAL-EMT-162",
+          "label": {
+            "fr": "Noyer",
+            "en": "Walnut"
+          },
+          "swatch": "#5c3d2a",
+          "price": 21000,
+          "stock": 12,
+          "materials": {
+            "wood": {
+              "color": "#5c3d2a",
+              "roughness": 0.5,
+              "clearcoat": 0.5,
+              "clearcoatRoughness": 0.3
+            },
+            "accent": {
+              "color": "#5c3d2a",
+              "roughness": 0.5,
+              "clearcoat": 0.5,
+              "clearcoatRoughness": 0.3
+            }
+          },
+          "options": {
+            "bois": "noyer"
+          }
+        },
+        {
+          "id": "etagere-murale-tlemcen--noir",
+          "productId": "etagere-murale-tlemcen",
+          "sku": "SAL-EMT-163",
+          "label": {
+            "fr": "Chêne noir",
+            "en": "Black oak"
+          },
+          "swatch": "#2b2521",
+          "price": 19500,
+          "stock": 12,
+          "materials": {
+            "wood": {
+              "color": "#2b2521",
+              "roughness": 0.5,
+              "clearcoat": 0.4,
+              "clearcoatRoughness": 0.35
+            },
+            "accent": {
+              "color": "#2b2521",
+              "roughness": 0.5,
+              "clearcoat": 0.4,
+              "clearcoatRoughness": 0.35
+            }
+          },
+          "options": {
+            "bois": "chene-noir"
+          }
+        }
+      ]
+    },
+    {
+      "id": "suspension-globe-opale",
+      "slug": "suspension-globe-opale",
+      "weightKg": 3,
+      "deliveryDays": 5,
+      "rating": 4.6,
+      "ratingCount": 88,
+      "badges": [
+        "bestSeller"
+      ],
+      "name": {
+        "fr": "Suspension Globe opale",
+        "en": "Opal globe pendant"
+      },
+      "brand": "Lumière d'Alger",
+      "category": "suspension",
+      "style": "moderne",
+      "description": {
+        "fr": "Globe en verre opalin, lumière diffuse et douce.",
+        "en": "Opal glass globe for soft, diffuse light."
+      },
+      "dimensions": {
+        "width": 45,
+        "depth": 45,
+        "height": 90
+      },
+      "materialsLabel": {
+        "fr": "Verre opalin, laiton",
+        "en": "Opal glass, brass"
+      },
+      "materials": {
+        "accent": {
+          "color": "#f4f1ea",
+          "roughness": 0.3,
+          "transmission": 0.3
+        },
+        "metal": {
+          "color": "#c9a66b",
+          "metalness": 1,
+          "roughness": 0.3
+        },
+        "light": {
+          "color": "#fff6e8",
+          "emissive": "#ffe2b8",
+          "emissiveIntensity": 0.25,
+          "roughness": 0.4
+        }
+      },
+      "modelUrl": null,
+      "images": [],
+      "placeholder": "globe",
+      "variants": [
+        {
+          "id": "suspension-globe-opale--laiton",
+          "productId": "suspension-globe-opale",
+          "sku": "SAL-SGO-164",
+          "label": {
+            "fr": "Opale · laiton",
+            "en": "Opal · brass"
+          },
+          "swatch": "#c9a66b",
+          "price": 14500,
+          "stock": 12,
+          "materials": {},
+          "options": {
+            "couleur": "laiton"
+          }
+        },
+        {
+          "id": "suspension-globe-opale--noir",
+          "productId": "suspension-globe-opale",
+          "sku": "SAL-SGO-165",
+          "label": {
+            "fr": "Opale · noir",
+            "en": "Opal · black"
+          },
+          "swatch": "#1e1e1e",
+          "price": 13500,
+          "stock": 12,
+          "materials": {
+            "metal": {
+              "color": "#1e1e1e",
+              "metalness": 0.8,
+              "roughness": 0.45
+            }
+          },
+          "options": {
+            "couleur": "noir"
+          }
+        },
+        {
+          "id": "suspension-globe-opale--chrome",
+          "productId": "suspension-globe-opale",
+          "sku": "SAL-SGO-166",
+          "label": {
+            "fr": "Opale · chrome",
+            "en": "Opal · chrome"
+          },
+          "swatch": "#d8d8d8",
+          "price": 13900,
+          "stock": 12,
+          "materials": {
+            "metal": {
+              "color": "#d8d8d8",
+              "metalness": 1,
+              "roughness": 0.15
+            }
+          },
+          "options": {
+            "couleur": "chrome"
+          }
+        }
+      ]
+    },
+    {
+      "id": "suspension-rotin-ghardaia",
+      "slug": "suspension-rotin-ghardaia",
+      "weightKg": 2,
+      "deliveryDays": 7,
+      "rating": 4.5,
+      "ratingCount": 36,
+      "badges": [
+        "fabriqueEnAlgerie"
+      ],
+      "name": {
+        "fr": "Suspension rotin Ghardaïa",
+        "en": "Ghardaia rattan pendant"
+      },
+      "brand": "Maison Tassili",
+      "category": "suspension",
+      "style": "oriental",
+      "description": {
+        "fr": "Abat-jour en rotin tressé à la main, ombres graphiques.",
+        "en": "Hand-woven rattan shade casting graphic shadows."
+      },
+      "dimensions": {
+        "width": 60,
+        "depth": 60,
+        "height": 80
+      },
+      "materialsLabel": {
+        "fr": "Rotin naturel",
+        "en": "Natural rattan"
+      },
+      "materials": {
+        "accent": {
+          "color": "#c8a26b",
+          "roughness": 0.85
+        },
+        "metal": {
+          "color": "#1e1e1e",
+          "metalness": 0.8,
+          "roughness": 0.45
+        },
+        "light": {
+          "color": "#fff6e8",
+          "emissive": "#ffe2b8",
+          "emissiveIntensity": 0.25,
+          "roughness": 0.4
+        }
+      },
+      "modelUrl": null,
+      "images": [],
+      "placeholder": "dome",
+      "variants": [
+        {
+          "id": "suspension-rotin-ghardaia--naturel",
+          "productId": "suspension-rotin-ghardaia",
+          "sku": "SAL-SRG-167",
+          "label": {
+            "fr": "Rotin naturel",
+            "en": "Natural rattan"
+          },
+          "swatch": "#c8a26b",
+          "price": 16500,
+          "stock": 12,
+          "materials": {},
+          "options": {
+            "couleur": "naturel"
+          }
+        },
+        {
+          "id": "suspension-rotin-ghardaia--fume",
+          "productId": "suspension-rotin-ghardaia",
+          "sku": "SAL-SRG-168",
+          "label": {
+            "fr": "Rotin fumé",
+            "en": "Smoked rattan"
+          },
+          "swatch": "#6e5238",
+          "price": 17500,
+          "stock": 12,
+          "materials": {
+            "accent": {
+              "color": "#6e5238",
+              "roughness": 0.85
+            }
+          },
+          "options": {
+            "couleur": "fume"
+          }
+        },
+        {
+          "id": "suspension-rotin-ghardaia--blanchi",
+          "productId": "suspension-rotin-ghardaia",
+          "sku": "SAL-SRG-169",
+          "label": {
+            "fr": "Rotin blanchi",
+            "en": "Bleached rattan"
+          },
+          "swatch": "#e2d6bf",
+          "price": 17500,
+          "stock": 12,
+          "materials": {
+            "accent": {
+              "color": "#e2d6bf",
+              "roughness": 0.85
+            }
+          },
+          "options": {
+            "couleur": "blanchi"
+          }
+        }
+      ]
+    },
+    {
+      "id": "suspension-cone-cirta",
+      "slug": "suspension-cone-cirta",
+      "weightKg": 4,
+      "deliveryDays": 5,
+      "rating": 4.4,
+      "ratingCount": 18,
+      "badges": [],
+      "name": {
+        "fr": "Suspension cône Cirta",
+        "en": "Cirta cone pendant"
+      },
+      "brand": "Lumière d'Alger",
+      "category": "suspension",
+      "style": "classique",
+      "description": {
+        "fr": "Cône en métal laqué, intérieur doré.",
+        "en": "Lacquered metal cone with a gilded interior."
+      },
+      "dimensions": {
+        "width": 50,
+        "depth": 50,
+        "height": 100
+      },
+      "materialsLabel": {
+        "fr": "Acier laqué, laiton",
+        "en": "Lacquered steel, brass"
+      },
+      "materials": {
+        "accent": {
+          "color": "#2f4a3f",
+          "roughness": 0.5
+        },
+        "metal": {
+          "color": "#c9a66b",
+          "metalness": 1,
+          "roughness": 0.3
+        },
+        "light": {
+          "color": "#fff6e8",
+          "emissive": "#ffe2b8",
+          "emissiveIntensity": 0.25,
+          "roughness": 0.4
+        }
+      },
+      "modelUrl": null,
+      "images": [],
+      "placeholder": "cone",
+      "variants": [
+        {
+          "id": "suspension-cone-cirta--vert",
+          "productId": "suspension-cone-cirta",
+          "sku": "SAL-SCC-170",
+          "label": {
+            "fr": "Vert forêt",
+            "en": "Forest green"
+          },
+          "swatch": "#2f4a3f",
+          "price": 12500,
+          "stock": 12,
+          "materials": {},
+          "options": {
+            "couleur": "vert"
+          }
+        },
+        {
+          "id": "suspension-cone-cirta--noir",
+          "productId": "suspension-cone-cirta",
+          "sku": "SAL-SCC-171",
+          "label": {
+            "fr": "Noir mat",
+            "en": "Matte black"
+          },
+          "swatch": "#1e1e1e",
+          "price": 11900,
+          "stock": 12,
+          "materials": {
+            "accent": {
+              "color": "#1e1e1e",
+              "roughness": 0.5
+            }
+          },
+          "options": {
+            "couleur": "noir"
+          }
+        },
+        {
+          "id": "suspension-cone-cirta--terracotta",
+          "productId": "suspension-cone-cirta",
+          "sku": "SAL-SCC-172",
+          "label": {
+            "fr": "Terracotta",
+            "en": "Terracotta"
+          },
+          "swatch": "#b0603f",
+          "price": 12500,
+          "stock": 12,
+          "materials": {
+            "accent": {
+              "color": "#b0603f",
+              "roughness": 0.5
+            }
+          },
+          "options": {
+            "couleur": "terracotta"
+          }
+        },
+        {
+          "id": "suspension-cone-cirta--blanc",
+          "productId": "suspension-cone-cirta",
+          "sku": "SAL-SCC-173",
+          "label": {
+            "fr": "Blanc",
+            "en": "White"
+          },
+          "swatch": "#f1eee8",
+          "price": 11900,
+          "stock": 12,
+          "materials": {
+            "accent": {
+              "color": "#f1eee8",
+              "roughness": 0.5
+            }
+          },
+          "options": {
+            "couleur": "blanc"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lampadaire-lin-medea",
+      "slug": "lampadaire-lin-medea",
+      "weightKg": 6,
+      "deliveryDays": 5,
+      "rating": 4.6,
+      "ratingCount": 47,
+      "badges": [
+        "bestSeller"
+      ],
+      "name": {
+        "fr": "Lampadaire Médéa",
+        "en": "Medea floor lamp"
+      },
+      "brand": "Lumière d'Alger",
+      "category": "lampadaire",
+      "style": "scandinave",
+      "description": {
+        "fr": "Abat-jour en lin plissé sur pied en chêne.",
+        "en": "Pleated linen shade on an oak stand."
+      },
+      "dimensions": {
+        "width": 42,
+        "depth": 42,
+        "height": 160
+      },
+      "materialsLabel": {
+        "fr": "Lin, chêne, acier",
+        "en": "Linen, oak, steel"
+      },
+      "materials": {
+        "fabric": {
+          "color": "#d8cbb3",
+          "roughness": 0.9,
+          "sheen": 0.6,
+          "sheenColor": "#f5ecdc",
+          "sheenRoughness": 0.8
+        },
+        "metal": {
+          "color": "#1e1e1e",
+          "metalness": 0.8,
+          "roughness": 0.45
+        },
+        "wood": {
+          "color": "#b8895a",
+          "roughness": 0.55,
+          "clearcoat": 0.4,
+          "clearcoatRoughness": 0.35
+        },
+        "light": {
+          "color": "#fff6e8",
+          "emissive": "#ffe2b8",
+          "emissiveIntensity": 0.25,
+          "roughness": 0.4
+        }
+      },
+      "modelUrl": null,
+      "images": [],
+      "placeholder": "drum",
+      "variants": [
+        {
+          "id": "lampadaire-lin-medea--lin-chene",
+          "productId": "lampadaire-lin-medea",
+          "sku": "SAL-LLM-174",
+          "label": {
+            "fr": "Lin naturel · chêne",
+            "en": "Natural linen · oak"
+          },
+          "swatch": "#d8cbb3",
+          "price": 18500,
+          "stock": 12,
+          "materials": {},
+          "options": {
+            "tissu": "lin",
+            "bois": "chene"
+          }
+        },
+        {
+          "id": "lampadaire-lin-medea--lin-noyer",
+          "productId": "lampadaire-lin-medea",
+          "sku": "SAL-LLM-175",
+          "label": {
+            "fr": "Lin naturel · noyer",
+            "en": "Natural linen · walnut"
+          },
+          "swatch": "#5c3d2a",
+          "price": 19900,
+          "stock": 12,
+          "materials": {
+            "wood": {
+              "color": "#5c3d2a",
+              "roughness": 0.5,
+              "clearcoat": 0.5,
+              "clearcoatRoughness": 0.3
+            }
+          },
+          "options": {
+            "tissu": "lin",
+            "bois": "noyer"
+          }
+        },
+        {
+          "id": "lampadaire-lin-medea--sauge-chene",
+          "productId": "lampadaire-lin-medea",
+          "sku": "SAL-LLM-176",
+          "label": {
+            "fr": "Lin sauge · chêne",
+            "en": "Sage linen · oak"
+          },
+          "swatch": "#9ca98a",
+          "price": 18500,
+          "stock": 12,
+          "materials": {
+            "fabric": {
+              "color": "#9ca98a",
+              "roughness": 0.9,
+              "sheen": 0.6,
+              "sheenColor": "#d3dcc4",
+              "sheenRoughness": 0.8
+            }
+          },
+          "options": {
+            "tissu": "lin",
+            "bois": "chene"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lampadaire-arc-alger",
+      "slug": "lampadaire-arc-alger",
+      "weightKg": 14,
+      "deliveryDays": 7,
+      "rating": 4.5,
+      "ratingCount": 23,
+      "badges": [
+        "nouveau"
+      ],
+      "name": {
+        "fr": "Lampadaire arc Alger",
+        "en": "Alger arc floor lamp"
+      },
+      "brand": "Lumière d'Alger",
+      "category": "lampadaire",
+      "style": "moderne",
+      "description": {
+        "fr": "Grand arc en laiton, socle marbre, globe opalin.",
+        "en": "Large brass arc, marble base, opal globe."
+      },
+      "dimensions": {
+        "width": 60,
+        "depth": 60,
+        "height": 185
+      },
+      "materialsLabel": {
+        "fr": "Laiton, marbre, verre",
+        "en": "Brass, marble, glass"
+      },
+      "materials": {
+        "metal": {
+          "color": "#c9a66b",
+          "metalness": 1,
+          "roughness": 0.3
+        },
+        "accent": {
+          "color": "#eeeae4",
+          "roughness": 0.2,
+          "clearcoat": 1,
+          "clearcoatRoughness": 0.1
+        },
+        "fabric": {
+          "color": "#f4f1ea",
+          "roughness": 0.3
+        },
+        "light": {
+          "color": "#fff6e8",
+          "emissive": "#ffe2b8",
+          "emissiveIntensity": 0.25,
+          "roughness": 0.4
+        }
+      },
+      "modelUrl": null,
+      "images": [],
+      "placeholder": "arc",
+      "variants": [
+        {
+          "id": "lampadaire-arc-alger--laiton",
+          "productId": "lampadaire-arc-alger",
+          "sku": "SAL-LAA-177",
+          "label": {
+            "fr": "Laiton · marbre blanc",
+            "en": "Brass · white marble"
+          },
+          "swatch": "#c9a66b",
+          "price": 36000,
+          "stock": 12,
+          "materials": {},
+          "options": {
+            "couleur": "laiton"
+          }
+        },
+        {
+          "id": "lampadaire-arc-alger--noir",
+          "productId": "lampadaire-arc-alger",
+          "sku": "SAL-LAA-178",
+          "label": {
+            "fr": "Noir · marbre blanc",
+            "en": "Black · white marble"
+          },
+          "swatch": "#1e1e1e",
+          "price": 33000,
+          "stock": 12,
+          "materials": {
+            "metal": {
+              "color": "#1e1e1e",
+              "metalness": 0.8,
+              "roughness": 0.45
+            }
+          },
+          "options": {
+            "couleur": "noir"
+          }
+        },
+        {
+          "id": "lampadaire-arc-alger--chrome",
+          "productId": "lampadaire-arc-alger",
+          "sku": "SAL-LAA-179",
+          "label": {
+            "fr": "Chrome · marbre vert",
+            "en": "Chrome · green marble"
+          },
+          "swatch": "#d8d8d8",
+          "price": 38000,
+          "stock": 12,
+          "materials": {
+            "metal": {
+              "color": "#d8d8d8",
+              "metalness": 1,
+              "roughness": 0.15
+            },
+            "accent": {
+              "color": "#2f4a3f",
+              "roughness": 0.2,
+              "clearcoat": 1,
+              "clearcoatRoughness": 0.1
+            }
+          },
+          "options": {
+            "couleur": "chrome"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lampadaire-tripode-annaba",
+      "slug": "lampadaire-tripode-annaba",
+      "weightKg": 7,
+      "deliveryDays": 5,
+      "rating": 4.3,
+      "ratingCount": 31,
+      "badges": [],
+      "name": {
+        "fr": "Lampadaire trépied Annaba",
+        "en": "Annaba tripod floor lamp"
+      },
+      "brand": "Nordhem",
+      "category": "lampadaire",
+      "style": "classique",
+      "description": {
+        "fr": "Trépied en bois tourné, abat-jour tambour.",
+        "en": "Turned wood tripod with a drum shade."
+      },
+      "dimensions": {
+        "width": 55,
+        "depth": 55,
+        "height": 150
+      },
+      "materialsLabel": {
+        "fr": "Hêtre, coton",
+        "en": "Beech, cotton"
+      },
+      "materials": {
+        "wood": {
+          "color": "#cfa774",
+          "roughness": 0.55,
+          "clearcoat": 0.4,
+          "clearcoatRoughness": 0.35
+        },
+        "fabric": {
+          "color": "#ede6d8",
+          "roughness": 0.95,
+          "sheen": 0.7,
+          "sheenColor": "#ffffff",
+          "sheenRoughness": 0.9
+        },
+        "metal": {
+          "color": "#c9a66b",
+          "metalness": 1,
+          "roughness": 0.3
+        },
+        "light": {
+          "color": "#fff6e8",
+          "emissive": "#ffe2b8",
+          "emissiveIntensity": 0.25,
+          "roughness": 0.4
+        }
+      },
+      "modelUrl": null,
+      "images": [],
+      "placeholder": "tripod",
+      "variants": [
+        {
+          "id": "lampadaire-tripode-annaba--clair-ivoire",
+          "productId": "lampadaire-tripode-annaba",
+          "sku": "SAL-LTA-180",
+          "label": {
+            "fr": "Hêtre clair · ivoire",
+            "en": "Light beech · ivory"
+          },
+          "swatch": "#cfa774",
+          "price": 15900,
+          "stock": 12,
+          "materials": {},
+          "options": {
+            "bois": "chene-clair"
+          }
+        },
+        {
+          "id": "lampadaire-tripode-annaba--noyer-ivoire",
+          "productId": "lampadaire-tripode-annaba",
+          "sku": "SAL-LTA-181",
+          "label": {
+            "fr": "Noyer · ivoire",
+            "en": "Walnut · ivory"
+          },
+          "swatch": "#5c3d2a",
+          "price": 17500,
+          "stock": 12,
+          "materials": {
+            "wood": {
+              "color": "#5c3d2a",
+              "roughness": 0.5,
+              "clearcoat": 0.5,
+              "clearcoatRoughness": 0.3
+            }
+          },
+          "options": {
+            "bois": "noyer"
+          }
+        },
+        {
+          "id": "lampadaire-tripode-annaba--noir-terracotta",
+          "productId": "lampadaire-tripode-annaba",
+          "sku": "SAL-LTA-182",
+          "label": {
+            "fr": "Noir · terracotta",
+            "en": "Black · terracotta"
+          },
+          "swatch": "#b0603f",
+          "price": 16900,
+          "stock": 12,
+          "materials": {
+            "wood": {
+              "color": "#2b2521",
+              "roughness": 0.5,
+              "clearcoat": 0.4,
+              "clearcoatRoughness": 0.35
+            },
+            "fabric": {
+              "color": "#b0603f",
+              "roughness": 0.8,
+              "sheen": 1,
+              "sheenColor": "#e0957a",
+              "sheenRoughness": 0.4
+            }
+          },
+          "options": {
+            "bois": "chene-noir"
+          }
+        }
+      ]
+    },
+    {
+      "id": "plante-olivier",
+      "slug": "plante-olivier",
+      "weightKg": 8,
+      "deliveryDays": 5,
+      "rating": 4.7,
+      "ratingCount": 52,
+      "badges": [
+        "bestSeller"
+      ],
+      "name": {
+        "fr": "Olivier en pot",
+        "en": "Potted olive tree"
+      },
+      "brand": "Atelier Saluna",
+      "category": "plante",
+      "style": "oriental",
+      "description": {
+        "fr": "Olivier artificiel très réaliste, pot en terre cuite.",
+        "en": "Highly realistic artificial olive tree in a terracotta pot."
+      },
+      "dimensions": {
+        "width": 55,
+        "depth": 55,
+        "height": 150
+      },
+      "materialsLabel": {
+        "fr": "Polyester, terre cuite",
+        "en": "Polyester, terracotta"
+      },
+      "materials": {
+        "accent": {
+          "color": "#b5643c",
+          "roughness": 0.9
+        },
+        "foliage": {
+          "color": "#7a8b5c",
+          "roughness": 0.8
+        },
+        "wood": {
+          "color": "#6b5540",
+          "roughness": 0.9
+        }
+      },
+      "modelUrl": null,
+      "images": [],
+      "placeholder": "olive",
+      "variants": [
+        {
+          "id": "plante-olivier--terre-cuite",
+          "productId": "plante-olivier",
+          "sku": "SAL-PO-183",
+          "label": {
+            "fr": "Pot terre cuite",
+            "en": "Terracotta pot"
+          },
+          "swatch": "#b5643c",
+          "price": 16900,
+          "stock": 12,
+          "materials": {},
+          "options": {
+            "couleur": "terracotta"
+          }
+        },
+        {
+          "id": "plante-olivier--blanc",
+          "productId": "plante-olivier",
+          "sku": "SAL-PO-184",
+          "label": {
+            "fr": "Pot céramique blanc",
+            "en": "White ceramic pot"
+          },
+          "swatch": "#f1eee8",
+          "price": 17900,
+          "stock": 12,
+          "materials": {
+            "accent": {
+              "color": "#f1eee8",
+              "roughness": 0.3,
+              "clearcoat": 0.6
+            }
+          },
+          "options": {
+            "couleur": "blanc"
+          }
+        },
+        {
+          "id": "plante-olivier--noir",
+          "productId": "plante-olivier",
+          "sku": "SAL-PO-185",
+          "label": {
+            "fr": "Pot béton noir",
+            "en": "Black concrete pot"
+          },
+          "swatch": "#3a3a3a",
+          "price": 17900,
+          "stock": 12,
+          "materials": {
+            "accent": {
+              "color": "#3a3a3a",
+              "roughness": 0.8
+            }
+          },
+          "options": {
+            "couleur": "noir"
+          }
+        }
+      ]
+    },
+    {
+      "id": "plante-monstera",
+      "slug": "plante-monstera",
+      "weightKg": 5,
+      "deliveryDays": 5,
+      "rating": 4.5,
+      "ratingCount": 40,
+      "badges": [],
+      "name": {
+        "fr": "Monstera en pot",
+        "en": "Potted monstera"
+      },
+      "brand": "Atelier Saluna",
+      "category": "plante",
+      "style": "moderne",
+      "description": {
+        "fr": "Monstera artificielle aux larges feuilles.",
+        "en": "Artificial monstera with large leaves."
+      },
+      "dimensions": {
+        "width": 60,
+        "depth": 60,
+        "height": 110
+      },
+      "materialsLabel": {
+        "fr": "Polyester, céramique",
+        "en": "Polyester, ceramic"
+      },
+      "materials": {
+        "accent": {
+          "color": "#f1eee8",
+          "roughness": 0.3,
+          "clearcoat": 0.6
+        },
+        "foliage": {
+          "color": "#4e6b3a",
+          "roughness": 0.8
+        }
+      },
+      "modelUrl": null,
+      "images": [],
+      "placeholder": "monstera",
+      "variants": [
+        {
+          "id": "plante-monstera--blanc",
+          "productId": "plante-monstera",
+          "sku": "SAL-PM-186",
+          "label": {
+            "fr": "Pot céramique blanc",
+            "en": "White ceramic pot"
+          },
+          "swatch": "#f1eee8",
+          "price": 11900,
+          "stock": 12,
+          "materials": {},
+          "options": {
+            "couleur": "blanc"
+          }
+        },
+        {
+          "id": "plante-monstera--rotin",
+          "productId": "plante-monstera",
+          "sku": "SAL-PM-187",
+          "label": {
+            "fr": "Panier rotin",
+            "en": "Rattan basket"
+          },
+          "swatch": "#c8a26b",
+          "price": 12900,
+          "stock": 12,
+          "materials": {
+            "accent": {
+              "color": "#c8a26b",
+              "roughness": 0.85
+            }
+          },
+          "options": {
+            "couleur": "naturel"
+          }
+        },
+        {
+          "id": "plante-monstera--bleu",
+          "productId": "plante-monstera",
+          "sku": "SAL-PM-188",
+          "label": {
+            "fr": "Pot céramique bleu",
+            "en": "Blue ceramic pot"
+          },
+          "swatch": "#2e5e8c",
+          "price": 12900,
+          "stock": 12,
+          "materials": {
+            "accent": {
+              "color": "#2e5e8c",
+              "roughness": 0.3,
+              "clearcoat": 0.6
+            }
+          },
+          "options": {
+            "couleur": "bleu"
+          }
+        }
+      ]
+    },
+    {
+      "id": "vase-kabyle",
+      "slug": "vase-kabyle",
+      "weightKg": 4,
+      "deliveryDays": 7,
+      "rating": 4.9,
+      "ratingCount": 26,
+      "badges": [
+        "fabriqueEnAlgerie"
+      ],
+      "name": {
+        "fr": "Vase kabyle",
+        "en": "Kabyle vase"
+      },
+      "brand": "Casbah Design",
+      "category": "vase",
+      "style": "oriental",
+      "description": {
+        "fr": "Grand vase en terre cuite façonné à la main, branches de pampa.",
+        "en": "Large hand-shaped terracotta vase with pampas stems."
+      },
+      "dimensions": {
+        "width": 32,
+        "depth": 32,
+        "height": 95
+      },
+      "materialsLabel": {
+        "fr": "Terre cuite, pampa séchée",
+        "en": "Terracotta, dried pampas"
+      },
+      "materials": {
+        "accent": {
+          "color": "#b5643c",
+          "roughness": 0.9
+        },
+        "foliage": {
+          "color": "#e3d3b1",
+          "roughness": 0.95
+        }
+      },
+      "modelUrl": null,
+      "images": [],
+      "placeholder": "tall",
+      "variants": [
+        {
+          "id": "vase-kabyle--terre-cuite",
+          "productId": "vase-kabyle",
+          "sku": "SAL-VK-189",
+          "label": {
+            "fr": "Terre cuite naturelle",
+            "en": "Natural terracotta"
+          },
+          "swatch": "#b5643c",
+          "price": 9500,
+          "stock": 12,
+          "materials": {},
+          "options": {
+            "couleur": "terracotta"
+          }
+        },
+        {
+          "id": "vase-kabyle--engobe-blanc",
+          "productId": "vase-kabyle",
+          "sku": "SAL-VK-190",
+          "label": {
+            "fr": "Engobe blanc",
+            "en": "White slip"
+          },
+          "swatch": "#efe7da",
+          "price": 10500,
+          "stock": 12,
+          "materials": {
+            "accent": {
+              "color": "#efe7da",
+              "roughness": 0.8
+            }
+          },
+          "options": {
+            "couleur": "blanc"
+          }
+        },
+        {
+          "id": "vase-kabyle--noir",
+          "productId": "vase-kabyle",
+          "sku": "SAL-VK-191",
+          "label": {
+            "fr": "Enfumé noir",
+            "en": "Smoke-fired black"
+          },
+          "swatch": "#2c2a28",
+          "price": 10500,
+          "stock": 12,
+          "materials": {
+            "accent": {
+              "color": "#2c2a28",
+              "roughness": 0.7
+            }
+          },
+          "options": {
+            "couleur": "noir"
+          }
+        }
+      ]
+    },
+    {
+      "id": "vase-nedroma",
+      "slug": "vase-nedroma",
+      "weightKg": 2,
+      "deliveryDays": 7,
+      "rating": 4.4,
+      "ratingCount": 15,
+      "badges": [],
+      "name": {
+        "fr": "Vase céramique Nedroma",
+        "en": "Nedroma ceramic vase"
+      },
+      "brand": "Casbah Design",
+      "category": "vase",
+      "style": "classique",
+      "description": {
+        "fr": "Vase émaillé sur socle, bouquet de branches séchées.",
+        "en": "Glazed vase on a stand with dried branches."
+      },
+      "dimensions": {
+        "width": 28,
+        "depth": 28,
+        "height": 70
+      },
+      "materialsLabel": {
+        "fr": "Céramique émaillée",
+        "en": "Glazed ceramic"
+      },
+      "materials": {
+        "accent": {
+          "color": "#2e5e8c",
+          "roughness": 0.25,
+          "clearcoat": 0.8
+        },
+        "foliage": {
+          "color": "#8a6f4d",
+          "roughness": 0.9
+        }
+      },
+      "modelUrl": null,
+      "images": [],
+      "placeholder": "round",
+      "variants": [
+        {
+          "id": "vase-nedroma--bleu",
+          "productId": "vase-nedroma",
+          "sku": "SAL-VN-192",
+          "label": {
+            "fr": "Émail bleu",
+            "en": "Blue glaze"
+          },
+          "swatch": "#2e5e8c",
+          "price": 7900,
+          "stock": 12,
+          "materials": {},
+          "options": {
+            "couleur": "bleu"
+          }
+        },
+        {
+          "id": "vase-nedroma--vert",
+          "productId": "vase-nedroma",
+          "sku": "SAL-VN-193",
+          "label": {
+            "fr": "Émail vert",
+            "en": "Green glaze"
+          },
+          "swatch": "#3f6b4f",
+          "price": 7900,
+          "stock": 12,
+          "materials": {
+            "accent": {
+              "color": "#3f6b4f",
+              "roughness": 0.25,
+              "clearcoat": 0.8
+            }
+          },
+          "options": {
+            "couleur": "vert"
+          }
+        },
+        {
+          "id": "vase-nedroma--ivoire",
+          "productId": "vase-nedroma",
+          "sku": "SAL-VN-194",
+          "label": {
+            "fr": "Émail ivoire",
+            "en": "Ivory glaze"
+          },
+          "swatch": "#efe7da",
+          "price": 7900,
+          "stock": 12,
+          "materials": {
+            "accent": {
+              "color": "#efe7da",
+              "roughness": 0.25,
+              "clearcoat": 0.8
+            }
+          },
+          "options": {
+            "couleur": "ivoire"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tableau-sahara",
+      "slug": "tableau-sahara",
+      "weightKg": 3,
+      "deliveryDays": 5,
+      "rating": 4.6,
+      "ratingCount": 34,
+      "badges": [
+        "fabriqueEnAlgerie"
+      ],
+      "name": {
+        "fr": "Tableau abstrait Sahara",
+        "en": "Sahara abstract artwork"
+      },
+      "brand": "Atelier Saluna",
+      "category": "tableau",
+      "style": "moderne",
+      "description": {
+        "fr": "Toile imprimée aux tons de dunes, cadre chêne.",
+        "en": "Printed canvas in dune tones, oak frame."
+      },
+      "dimensions": {
+        "width": 100,
+        "depth": 3,
+        "height": 70
+      },
+      "elevation": 130,
+      "materialsLabel": {
+        "fr": "Toile, chêne",
+        "en": "Canvas, oak"
+      },
+      "materials": {
+        "accent": {
+          "color": "#e8d6b8",
+          "roughness": 0.95
+        },
+        "fabric": {
+          "color": "#c9804f",
+          "roughness": 0.95
+        },
+        "wood": {
+          "color": "#b8895a",
+          "roughness": 0.55,
+          "clearcoat": 0.4,
+          "clearcoatRoughness": 0.35
+        }
+      },
+      "modelUrl": null,
+      "images": [],
+      "placeholder": "dunes",
+      "variants": [
+        {
+          "id": "tableau-sahara--dunes-100",
+          "productId": "tableau-sahara",
+          "sku": "SAL-TS-195",
+          "label": {
+            "fr": "Dunes · 100 × 70",
+            "en": "Dunes · 100 × 70"
+          },
+          "swatch": "#c9804f",
+          "price": 12900,
+          "stock": 12,
+          "materials": {},
+          "options": {
+            "couleur": "dunes",
+            "taille": "100x70"
+          }
+        },
+        {
+          "id": "tableau-sahara--dunes-140",
+          "productId": "tableau-sahara",
+          "sku": "SAL-TS-196",
+          "label": {
+            "fr": "Dunes · 140 × 100",
+            "en": "Dunes · 140 × 100"
+          },
+          "swatch": "#c9804f",
+          "price": 18900,
+          "stock": 12,
+          "materials": {},
+          "options": {
+            "couleur": "dunes",
+            "taille": "140x100"
+          },
+          "dimensions": {
+            "width": 140,
+            "depth": 3,
+            "height": 100
+          }
+        },
+        {
+          "id": "tableau-sahara--nuit-100",
+          "productId": "tableau-sahara",
+          "sku": "SAL-TS-197",
+          "label": {
+            "fr": "Nuit saharienne · 100 × 70",
+            "en": "Desert night · 100 × 70"
+          },
+          "swatch": "#27324d",
+          "price": 12900,
+          "stock": 12,
+          "materials": {
+            "accent": {
+              "color": "#27324d",
+              "roughness": 0.95
+            },
+            "fabric": {
+              "color": "#c9a66b",
+              "roughness": 0.95
+            },
+            "wood": {
+              "color": "#2b2521",
+              "roughness": 0.5,
+              "clearcoat": 0.4,
+              "clearcoatRoughness": 0.35
+            }
+          },
+          "options": {
+            "couleur": "nuit",
+            "taille": "100x70"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tableau-medina",
+      "slug": "tableau-medina",
+      "weightKg": 3,
+      "deliveryDays": 5,
+      "rating": 4.7,
+      "ratingCount": 20,
+      "badges": [],
+      "name": {
+        "fr": "Tableau Médina",
+        "en": "Medina artwork"
+      },
+      "brand": "Casbah Design",
+      "category": "tableau",
+      "style": "oriental",
+      "description": {
+        "fr": "Portes de la médina en aplats de couleur, cadre laiton.",
+        "en": "Medina doors in flat colour, brass frame."
+      },
+      "dimensions": {
+        "width": 70,
+        "depth": 3,
+        "height": 100
+      },
+      "elevation": 120,
+      "materialsLabel": {
+        "fr": "Papier d’art, laiton",
+        "en": "Art paper, brass"
+      },
+      "materials": {
+        "accent": {
+          "color": "#f1e8d8",
+          "roughness": 0.95
+        },
+        "fabric": {
+          "color": "#2e5e8c",
+          "roughness": 0.95
+        },
+        "wood": {
+          "color": "#c9a66b",
+          "metalness": 1,
+          "roughness": 0.3
+        }
+      },
+      "modelUrl": null,
+      "images": [],
+      "placeholder": "arch",
+      "variants": [
+        {
+          "id": "tableau-medina--bleu",
+          "productId": "tableau-medina",
+          "sku": "SAL-TM-198",
+          "label": {
+            "fr": "Bleu de Fès",
+            "en": "Fez blue"
+          },
+          "swatch": "#2e5e8c",
+          "price": 14900,
+          "stock": 12,
+          "materials": {},
+          "options": {
+            "couleur": "bleu"
+          }
+        },
+        {
+          "id": "tableau-medina--vert",
+          "productId": "tableau-medina",
+          "sku": "SAL-TM-199",
+          "label": {
+            "fr": "Vert zellige",
+            "en": "Zellige green"
+          },
+          "swatch": "#3f6b4f",
+          "price": 14900,
+          "stock": 12,
+          "materials": {
+            "fabric": {
+              "color": "#3f6b4f",
+              "roughness": 0.95
+            }
+          },
+          "options": {
+            "couleur": "vert"
+          }
+        },
+        {
+          "id": "tableau-medina--ocre",
+          "productId": "tableau-medina",
+          "sku": "SAL-TM-200",
+          "label": {
+            "fr": "Ocre",
+            "en": "Ochre"
+          },
+          "swatch": "#c78a3b",
+          "price": 14900,
+          "stock": 12,
+          "materials": {
+            "fabric": {
+              "color": "#c78a3b",
+              "roughness": 0.95
+            }
+          },
+          "options": {
+            "couleur": "ocre"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tableau-calligraphie",
+      "slug": "tableau-calligraphie",
+      "weightKg": 4,
+      "deliveryDays": 7,
+      "rating": 4.8,
+      "ratingCount": 12,
+      "badges": [
+        "nouveau",
+        "fabriqueEnAlgerie"
+      ],
+      "name": {
+        "fr": "Tableau calligraphie",
+        "en": "Calligraphy artwork"
+      },
+      "brand": "Atelier Saluna",
+      "category": "tableau",
+      "style": "classique",
+      "description": {
+        "fr": "Calligraphie arabe à l’encre sur papier coton, cadre noyer.",
+        "en": "Arabic ink calligraphy on cotton paper, walnut frame."
+      },
+      "dimensions": {
+        "width": 120,
+        "depth": 3,
+        "height": 80
+      },
+      "elevation": 125,
+      "materialsLabel": {
+        "fr": "Papier coton, noyer",
+        "en": "Cotton paper, walnut"
+      },
+      "materials": {
+        "accent": {
+          "color": "#f3ecdf",
+          "roughness": 0.95
+        },
+        "fabric": {
+          "color": "#1f1d1b",
+          "roughness": 0.95
+        },
+        "wood": {
+          "color": "#5c3d2a",
+          "roughness": 0.5,
+          "clearcoat": 0.5,
+          "clearcoatRoughness": 0.3
+        }
+      },
+      "modelUrl": null,
+      "images": [],
+      "placeholder": "calligraphy",
+      "variants": [
+        {
+          "id": "tableau-calligraphie--encre-noire",
+          "productId": "tableau-calligraphie",
+          "sku": "SAL-TC-201",
+          "label": {
+            "fr": "Encre noire",
+            "en": "Black ink"
+          },
+          "swatch": "#1f1d1b",
+          "price": 22900,
+          "stock": 12,
+          "materials": {},
+          "options": {
+            "couleur": "noir"
+          }
+        },
+        {
+          "id": "tableau-calligraphie--encre-or",
+          "productId": "tableau-calligraphie",
+          "sku": "SAL-TC-202",
+          "label": {
+            "fr": "Encre dorée",
+            "en": "Gold ink"
+          },
+          "swatch": "#c9a66b",
+          "price": 26900,
+          "stock": 12,
+          "materials": {
+            "fabric": {
+              "color": "#c9a66b",
+              "roughness": 0.4,
+              "metalness": 0.8
+            }
+          },
+          "options": {
+            "couleur": "or"
+          }
+        },
+        {
+          "id": "tableau-calligraphie--encre-bleue",
+          "productId": "tableau-calligraphie",
+          "sku": "SAL-TC-203",
+          "label": {
+            "fr": "Encre bleue",
+            "en": "Blue ink"
+          },
+          "swatch": "#2e3f6e",
+          "price": 22900,
+          "stock": 12,
+          "materials": {
+            "fabric": {
+              "color": "#2e3f6e",
+              "roughness": 0.95
+            }
+          },
+          "options": {
+            "couleur": "bleu"
+          }
+        }
+      ]
+    }
+  ]
+}
