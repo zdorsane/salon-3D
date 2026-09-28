@@ -1,0 +1,71 @@
+@import 'tailwindcss';
+
+/* Jetons de design Saluna : verre dépoli sombre, accent laiton */
+@theme {
+  --color-brass: #c9a66b;
+  --color-brass-soft: #dcc192;
+  --color-ink: #f3eee7;
+  --color-ink-muted: #b9b1a6;
+  --color-night: #111010;
+  --color-night-soft: #1c1a18;
+  --color-glass: rgb(22 20 18 / 0.55);
+  --color-glass-strong: rgb(22 20 18 / 0.78);
+  --color-glass-border: rgb(243 238 231 / 0.12);
+  --color-success: #9fd3a8;
+  --color-danger: #f0a39a;
+
+  --font-display: 'Marcellus', Georgia, serif;
+  --font-sans: 'Manrope Variable', system-ui, sans-serif;
+  --font-mono: 'IBM Plex Mono', ui-monospace, monospace;
+
+  /* Cible tactile minimale */
+  --spacing-touch: 44px;
+
+  --animate-loader: loader 1.4s ease-in-out infinite;
+  @keyframes loader {
+    0% {
+      transform: translateX(-100%);
+    }
+    100% {
+      transform: translateX(300%);
+    }
+  }
+}
+
+/* Verre plus opaque : menus et messages lisibles sur n'importe quel fond */
+@utility glass-strong {
+  background-color: var(--color-glass-strong);
+  border: 1px solid var(--color-glass-border);
+  backdrop-filter: blur(24px) saturate(140%);
+  -webkit-backdrop-filter: blur(24px) saturate(140%);
+}
+
+/* Panneau en verre dépoli posé sur la 3D */
+@utility glass {
+  background-color: var(--color-glass);
+  border: 1px solid var(--color-glass-border);
+  backdrop-filter: blur(18px) saturate(140%);
+  -webkit-backdrop-filter: blur(18px) saturate(140%);
+}
+
+@layer base {
+  html,
+  body,
+  #root {
+    height: 100%;
+  }
+
+  body {
+    background-color: var(--color-night);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* Focus visible pour la navigation clavier */
+  :focus-visible {
+    outline: 2px solid var(--color-brass);
+    outline-offset: 2px;
+  }
+}
