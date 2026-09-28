@@ -1,0 +1,14 @@
+# Configuration de la CLI Supabase (développement local et déploiement).
+# Voir phases/08-backend-supabase/bilan.md pour les commandes.
+project_id = "saluna"
+
+[db.seed]
+enabled = true
+sql_paths = ["./seed.sql"]
+
+# Les edge functions importent le code partagé de src/ via le même import map.
+[functions.create-order]
+import_map = "./functions/deno.json"
+
+[functions.track-order]
+import_map = "./functions/deno.json"
